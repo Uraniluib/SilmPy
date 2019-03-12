@@ -1,2 +1,2 @@
 # SilmPy
-A project, scratching information from Tolkien gate way and Chinese Huiji Wiki
+A project, scratching information from Chinese Huiji Wiki
