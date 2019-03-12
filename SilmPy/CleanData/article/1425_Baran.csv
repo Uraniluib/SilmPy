@@ -1,0 +1,80 @@
+{{disambig-two|Baran, a Man of the [[House of Bëor]]|[[Sindarin]] word|[[baran (Sindarin)]]}}
+{{Edain infobox
+| name=Baran
+| image=[[File:Juliana Pinho - Baran and Baranor.png|250px]]
+| caption=Baran (left) in "Baran and Baranor" by [[:Category:Images by Juliana Pinho|Juliana Pinho]]
+| pronun=
+| othernames=Bëor the Young<ref>{{WJ|14}}, p. 230</ref>
+| titles=2nd Head of the [[House of Bëor]]
+| position=
+| location=[[Estolad]]
+| affiliation=
+| language=
+| birth={{FA|289}}
+| birthlocation=East of the [[Blue Mountains]]
+| rule=
+| death={{FA|380}}
+| deathlocation=
+| age=91
+| notablefor=
+| house=[[House of Bëor]]
+| parentage=[[Bëor]]
+| siblings=[[Belen]]
+| spouse=
+| children=[[Boron]] and [[Baranor (son of Baran)|Baranor]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Baran''' ({{FA|289}} - {{FA|380|n}}, age 91) was the second head of the [[House of Bëor]].
+__NOTOC__
+== History ==
+Baran was the oldest son of [[Bëor|Bëor the Old]] and brother to [[Belen]].<ref name="WJBeor"/>  He took over leadership of the [[House of Bëor]] in [[Estolad]] when his father left to serve as vassal to [[Finrod|Finrod Felagund]].<ref>{{S|West}}</ref>
+
+During his rule the [[Haladin]], the [[House of Hador|people of Marach]], and the [[Easterlings]] crossed over the [[Blue Mountains]] into [[Beleriand]].<ref>{{S|Fingolfin}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | BEO | | | | |BEO=[[Bëor]]<br/><small>''{{FA|262|n}} - {{FA|355|n}}''</small>}}
+{{familytree | | | | | | |,|-|-|^|-|-|-|.| |}}
+{{familytree | | | | | | BAR | | | | | BEL |BAR='''BARAN'''<br/><small>''{{FA|289|n}} - {{FA|380|n}}''</small>|BEL=[[Belen]]<br/><small>''b. {{FA|292|n}}''</small>}}
+{{familytree | | | |,|-|-|^|-|-|.| | | |!| |}}
+{{familytree | | | BOR | | | | BNR | | BEL |BOR=[[Boron]]<br/><small>''{{FA|315|n}} - {{FA|408|n}}''</small>|BNR=[[Baranor (son of Baran)|Baranor]]<br/><small>''b. {{FA|317|n}}''</small>|BEL=[[Beldir]]<br/><small>''b. {{FA|316|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |!| | | |!| |}}
+{{familytree | BOR | | BEL | | BER | | BEM |BOR=[[Boromir (Lord of Ladros)|Boromir]]<br/><small>''{{FA|338|n}} - {{FA|432|n}}''</small>|BEL=[[Belegor]]<br/><small>''b. {{FA|340|n}}''</small>|BER=[[Bereg]]<br/><small>''b. {{FA|340|n}}''</small>|BEM=[[Belemir]]<br/><small>''b. {{FA|339|n}}''</small>}}
+{{familytree | |:| | | | | | | | | | | | | |}}
+{{familytree | |:| | | | | | | | | | | | | |}}
+{{familytree | BER | | | | | | | | | | | | |BER=[[Beren]]<br/><small>''{{FA|432|n}} - {{FA|503|n}}''</small>}}
+{{familytree/end}}
+
+==Other Versions of the Legendarium==
+In the introduction to ''[[The Grey Annals]]'', [[Christopher Tolkien]] stated that they were written in the 1930s.<ref>{{WJ|P1}}, p, 3</ref>  This work was laid aside while [[J.R.R. Tolkien]] wrote ''The Lord of the Rings'', after which he returned to his work on the elder days.  In his later writings Tolkien relocated the coming of the [[Edain]] over the [[Blue Mountains]] nearly a century earlier, which occasioned a large-scale overhaul of the chronology and genealogies.<ref>{{WJ|14}}, ''The new genealogies of the Edain''</ref>
+
+In the older ''Grey Annals'' Bëor was followed by his sons [[Bregolas]] and [[Barahir]]. In the new version four generations (''Baran'', Boron, Boromir, and Bregor) were inserted after Bëor, with Bregor the father of Bregolas and Barahir.<ref name="WJBeor">{{WJ|14}}, ''(i) The House of Bëor''</ref>
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+| race=edain
+| house=[[House of Bëor]]
+| born={{FA|289}}
+| died={{FA|380}}
+}}
+{{seq
+| prev=[[Bëor]]
+| list=2nd Head of the [[House of Bëor]]
+| dates={{FA|311}} - {{FA|380|n}}
+| next=[[Boron]]
+}}
+{{seq-end}}
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Bëor]]
+[[Category:First Age characters]]
+
+[[de:Baran]]
+[[fi:Baran]]

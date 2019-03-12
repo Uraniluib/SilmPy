@@ -1,0 +1,183 @@
+{{rewrite}}
+{{sources}}
+
+''Note: these rules apply only to Noldorin Quenya, being the only dialect spoken in Middle-earth''.
+
+[[Quenya]] was an agglutinative SVO language. It had a relatively free word order since most information was expressed morphologically rather than syntactically. The different word classes of Quenya are explained below.
+
+==Phonology==
+Quenya was designed to have Latin-like phonology, with some of its phonological rules inspired by Finnish.
+
+===Consonants===
+{| rules="all" style="text-align:center; border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0"
+| bgcolor="white" | &nbsp;
+| bgcolor="lightgrey" | '''Labial'''
+| bgcolor="lightgrey" | '''Coronal'''
+| bgcolor="lightgrey" | '''Palatal'''
+| bgcolor="lightgrey" | '''Velar'''
+| bgcolor="lightgrey" | '''Labiovelar'''
+|-
+| Voiceless Stops || {{IPA|p}} || {{IPA|t}} || [[Wikipedia:Voiceless palatal stop|c]] (ty) || {{IPA|k}} (c) || {{IPA|kʷ}} (qu)
+|-
+| Voiced Stops || {{IPA|b}} || {{IPA|d}} || || {{IPA|g}} || {{IPA|ɡʷ}}
+|-
+| Voiceless Fricatives || {{IPA|f}} || [[Wikipedia:Voiceless dental fricative|θ]] (þ) || [[Wikipedia:Voiceless palatal fricative|ç]] (hy) || [[Wikipedia:Voiceless velar fricative|x]] (χ > h) || [[Wikipedia:Voiceless labialized velar approximant|ʍ]] (hw)
+|-
+| Voiced Fricatives & Glides || {{IPA|v}} || || [[Wikipedia:Palatal approximant|j]] (y) || || {{IPA|w}}
+|-
+| Nasals || {{IPA|m}} || {{IPA|n}} || [[Wikipedia:Palatal nasal|ɲ]] (ny) || [[Wikipedia:Velar nasal|ŋ]] (ñ) || {{IPA|ŋʷ}} (ñw)
+|-
+| Voiceless Liquids || || [[Wikipedia:Voiceless alveolar trill|r̥]], [[Wikipedia:Voiceless dental and alveolar lateral fricatives|ɬ]] (hr, hl) || || ||
+|-
+| Liquids || || {{IPA|r}}, {{IPA|l}} || {{IPA|rʲ}}, [[Wikipedia:Palatal lateral approximant|ʎ]] (ry, ly) || || 
+|-
+| Sibilants & Aspirates || || {{IPA|s}} || || {{IPA|h}} ||
+|}
+
+* '''ñ''', '''ñw''', '''hr''' and '''hl''' can only occur in the beginning of a word.
+*'''p''', '''t''', '''ty''', '''c''', '''qu''', '''f''', '''þ''', '''hy''', '''v''', '''y''', '''w''', '''m''', '''n''', '''ny''', '''r''', '''l''', '''ry''', '''ly''', '''s''', '''h''', '''hw''', '''ps''', '''ts''' and '''x''' (cs) may occur at the beginning or in the middle of a word.
+*'''b''', '''d''', '''g''' and '''gw''' can only occur in clusters.
+*'''t''', '''n''', '''nt''', '''r''', '''l''' and '''s''' may occur at the end of a word.
+*'''ñ''' '''þ''' are archaic and often replaced by '''n''' '''s'''.<ref> {{PE|19}} (''þ'' > ''s'') </ref>
+
+===Vowels===
+
+==Nouns==
+
+===Noun Cases===
+Nouns are declined for ten cases: the nominative, accusative, genitive, possessive, dative, instrumental, locative, allative, ablative, and a tenth case sometimes called the respective or the s-case.
+
+The nominative and accusative cases are almost identically analogous in Quenya.  The nominative is used to mark the subject of a verb. In Middle Earth, the nominative took over the accusative case.  The accusative marks the direct object of a verb. It is not used in spoken Quenya (i.e. Tarquesta), but appears in writing. But even in writing (i.e. Parmaquesta), the only difference between the nominative and accusative is that the final vowel is lengthened, so in words ending in a consonant, the accusative is not distinguishable from the nominative.<ref> {{VT|6}} </ref>
+
+In Quenya there are two cases that are used to express possession: the genitive and the possessive.  To be more specific, the genitive is mainly used to mark origin (e.g. the best smiths ''of'' ''Tirion''), while the possessive is used to denote ownership (e.g. ''Fëanor’s'' Silmarils). The two cases are very similar and can be interchangeable in most cases.<ref> {{WJ|P4|C}} </ref>
+
+The dative, ablative, allative, instrumental, and locative cases are the prepositional cases of Quenya.  
+* The dative marks the indirect object of the verb and is used to indicate beneficiary or purpose, which can often be translated as "to" and "for". 
+* The ablative expresses motion away from an object and can be translated as "from" or "out of".  
+* The allative case is used when indicating motion towards something, and is translated as "into", "onto", "against", "to", or "upon". 
+* The instrumental case denotes the means of the cause of why something happened, often translated as "by means of", "with" or "because". 
+* The locative case expresses the position of an object, translated as "in", ''at'' or "on".
+
+There is a tenth case called the respective case or the s-case.  The respective case is a mysterious case because it is not clear what it is used for.  Many scholars in Quenya guess that this case is used as a more abstract locative case.  Others think the case can be translated with the words "about" or "regarding".  Fortunately, the respective case is very rarely used, so it does not pose such a large problem.
+
+===Expressing Numbers===
+There are four ways to express numbers in Quenya: the singular, dual, plural, and partitive plural<ref> {{WJ|P4|AB}} </ref>.
+
+====Plural Form====
+The plural form is used to mark more than one specific thing. Nouns ending in ''-a'', ''-o'', ''-i'', ''-u'', ''-ië'' or a consonant forms a plural with the ending ''-r''. For example, the word ''Elda'' has the plural form Eldar; the word ''Ainu'' has the plural form ''Ainur'' etc.
+
+Nouns ending in ''-ë'' forms the plural form by having the plural suffix ''-i'' replace the final vowel. For example, the word ''Quendë'' has the plural form ''Quendi''.<ref> {{WJ|P4|B}} </ref>
+
+====Partitive Plural====
+The partitive plural is used to express some of the things in question. It is formed by adding the suffix ''-li'' to the end of the noun. For example, ''Eldali'', the partitive plural of ''Elda'', means “some Elda”.<ref> {{VT|49}} </ref>
+
+====Dual Form====
+The dual form is used to mark two specific things. One type of dual form is called the ''u-form''. The “u-form” is originally used with nouns which describe things that form natural pairs; or put it simply, it is used on two things or people that naturally belonging together as a logical couple.<ref> {{L|427}} </ref> For example, the word for lip ''pé'' has the dual form ''peu'', which refers to one person’s pair of lips.<ref> {{VT|39}} </ref> The noun for tree ''alda'' occurs in dual form with reference to the [[Two Trees of Valinor]]: ''Aldu''. When the ending -u is added to a noun ending in a vowel, the vowel will be displaced, as can be seen with ''Aldu''.<ref> {{MR|P2|P2j}} </ref>
+
+Another type of dual form is called the “t-form”. This form was originally used to only denote two things that are only causally related to each other. Yet it soon it became to only reference natural or logical pairs, which means that the functions of both the “u-form” and the “t-form” had merged.<ref> {{L|427}} </ref>
+
+The choice of using either form is decided by euphony, or put it simply, by what sounded well. Though the “u-form” is preferred to the “t-form” when the word that is to receive a dual ending already contains a ''t'' or the similarly sounding ''d''.<ref> {{L|427}} </ref>
+
+===Vocalic Declension===
+{| rules=all style="text-align: left; border: 1px solid darkgray;" cellpadding=3
+|-
+| rowspan=2 |
+| colspan=4 | '''a-, i-, ie-, o-, and u-stems'''
+| colspan=4 | '''e-stems'''
+|-
+| '''Singular''' || '''Dual''' || '''Plural''' || '''Part. Plural''' || '''Singular''' || '''Dual''' || '''Plural''' || '''Part. Plural'''
+|-
+| '''Nominative''' || yulma || yulmat || yulmar || yulmali || aurë || auret || auri || aureli
+|-
+| '''Accusative''' || yulmá || yulmat || yulmai || yulmalí || auré || ?auret || aurí || aurelí
+|-
+| '''Genitive''' || yulmo || yulmato || yulmaron || yulmalion || aurëo || aureto || aurion || aurelion
+|-
+| '''Dative''' || yulman || yulmant || yulmain || yulmalin || auren || aurent || aurín || aurelín
+|-
+| '''Instrumental''' || yulmanen || yulmanten || yulmainen || yulmalínen || aurenen || aurenten || aurínen || aurelínen
+|-
+| '''Possessive''' || yulmava || yulmatwa || yulmaiva || yulmalíva || aureva || auretwa || auríva || aurelíva
+|-
+| '''Locative''' || yulmassë || yulmatsë || yulmassen || yulmalissë || auressë || auretsë || auressen || aurelissë
+|-
+| '''Allative''' || yulmanna || yulmanta || yulmannar || yulmalinna || aurenna || aurenta || aurennar || aurelinna
+|-
+| '''Ablative''' || yulmallo || yulmalto || yulmallon || yulmalillo || aurello || aurelto || aurellon || aurelillo
+|-
+| '''Respective''' || yulmas || yulmates || yulmais || yulmalis || aures || auretes || aurís || aurelís
+|}
+
+===Consonantal Declension===
+{| rules=all style="text-align: left; border: 1px solid darkgray;" cellpadding=3
+|-
+|
+| '''Singular''' || '''Dual''' || '''Plural''' || '''Part. Plural'''
+|-
+| '''Nominative''' || nat || natu || nati || nateli
+|-
+| '''Accusative''' || nat || natú || natí || natelí
+|-
+| '''Genitive''' || nato || natuo || nation || natelion
+|-
+| '''Dative''' || naten || natun || natin || natelin
+|-
+| '''Instrumental''' || natenen || natunen || natinen || natelínen
+|-
+| '''Possessive''' || natwa || natuva || nativa || natelíva
+|-
+| '''Locative''' || natsë || natussë || natissen || natelissë
+|-
+| '''Allative''' || natenna || natenta || natinnar || natelinnar
+|-
+| '''Ablative''' || natello || natelto || natillon || natelillo
+|-
+| '''Respective''' || nates || natus || natis || natelis
+|}
+
+==Verbs==
+There are two main types of verbs: basic verbs, those which are formed from the basic verbal base, such as ''tirë'' (''tiri''-) "watch" from *TIR, and derivative verbs, which are formed either by putting verbal suffixes to a base like ''tulta''- "summon", from *TUL "come", or derived from non-verbal bases like ''cúna''- "bend", originally an adjective "bent".
+
+{| rules=all style="text-align: left; border: 1px solid darkgray;" cellpadding=3
+|-
+| rowspan=2 | || colspan=2 | '''Derivative verbs''' || colspan=2 | '''Basic verbs'''
+|-
+| '''Singular''' || '''Plural''' || '''Singular''' || '''Plural''' || '''Singular''' || '''Plural'''
+|-
+| '''Infinitive''' || colspan=2 | tulta (tulta-) || colspan=2 | tirë (tir-) || colspan=2 | palo (palu-)
+|-
+| '''Aorist/Simple present''' || tulta || tultar || tirë (tiri-) || tirir || palo (palu-) || palur
+|-
+| '''Present continuative''' || tultëa || tultëar || tíra || tírar || pálua || páluar
+|-
+| '''Past''' || tultanë || tultaner || tirnë || tirner || pallë || paller 
+|-
+| '''Future''' || tultuva || tultuvar || tiruva || tiruvar || palúva || palúvar
+|-
+| '''Perfect''' || utultië || utultier || itírië || itírier || apálië || apálier
+|}
+
+==Pronouns==
+Pronouns are seen as both independent words and enclitics; however the rules for this are not completely understood, although evidence sugests that independent forms are more emphatic in nature, while enclitics are the forms in use normally. What is known is that for intransitive verbs, the pronoun can appear as either an independent word or an enclitic. The enclitics often come in two different forms, long and short. The following table outlines the different forms attested. Hypothetical or reconstructed forms are indicated by either question marks or asterisks. Those forms that cannot be determined are not included and their absence is indicated by an emdash.
+
+{| rules=all style="text-align: left; border: 1px solid darkgray;" cellpadding=3
+|-
+| rowspan=2 colspan=2 | || colspan=2 | '''Independent''' || colspan=2 | '''Enclitic''' || colspan=2 | '''Independent Example''' || colspan=2 | '''Enclitic Example'''
+|-
+| '''Singular''' || '''Plural''' || '''Singular''' || '''Plural''' || '''Singular''' || '''Plural''' || '''Singular''' || '''Plural'''
+|-
+| rowspan=2 | '''First Person''' || '''Inclusive''' || rowspan=2 | ni, inyë || *elvë, *elwë || rowspan=2 | -n, -nyë || -lvë,<br>-lwë || rowspan=2 |  inyë tirë || elvë/elwë tirir || rowspan=2 | tirinyë, tirin || tirilvë, tirilwë
+|-
+| '''Exclusive''' || *elmë || -lmë || elmë tirir || tirilmë
+|-
+| colspan=2 | '''Second Person''' || le, elyë || le, ellë || -l, -lyë || ?-llë ||  elyë tirë ||  ?ellë tirir, elyë tirir || tiril, tirilyë || ?tirillë, tirilyë
+|-
+| colspan=2 | '''Third Person''' || se || te || -s, -ryë || -t,<br>-ntë || se tirë || ?entë tirir || tiris, tiriryë || tirit, tirintë
+|}
+
+Aside from inclusive and exclusive modes in the first person plural, there is also a dual mode, denoted by ''emmë'', ''-mmë''. The pronouns can be declined much like the regular nouns; for instance, the dative form of ''emmë'' is ''emmen''. This appears to be mostly regular, except for ''te'', "they", which takes the dative form ''tien''.
+
+{{references}}
+[[Category:Quenya]]
+[[de:Quenya#Grammatik]]
+[[fi:Quenyan lyhyt kielioppi]]

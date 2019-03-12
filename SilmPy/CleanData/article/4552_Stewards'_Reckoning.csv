@@ -1,0 +1,87 @@
+{{sources}}
+'''Stewards' Reckoning''', also known as the '''Revised Calendar''', was the calendar system introduced in [[Gondor]] by its first [[Ruling Steward]], [[Mardil|Mardil Voronwë]], in [[Third Age 2060]]. It replaced the previous system known as the [[Kings' Reckoning]] and, following the [[War of the Ring]], it was replaced by the [[New Reckoning]].<ref name="D2">{{App|D2}}</ref>
+
+==Background==
+[[Arnor]] and [[Gondor]] used a [[Númenóreans|Númenórean]] calendar called the Kings' Reckoning. Even after the fall of [[Númenor]] near the end of the [[Second Age]], the old calendar was maintained by the [[Exiles of Númenor]] in [[Middle-earth]] well into the [[Third Age]]. When the era of the Kings passed with the [[Battle of Fornost|fall of Arnor]] and the loss of King [[Eärnur]], the Kings' Reckoning presented (due to resetting the "[[Kings' Reckoning#Structure|millennial additions]]" with the new count of Third Age years) an offset of about 2 days<ref name="RC">[[Wayne G. Hammond]] and [[Christina Scull]], ''[[The Lord of the Rings: A Reader's Companion]]'', "Appendix D", p. 729</ref> out of synchronicity with the [[wikipedia:Tropical year|solar year]].<ref group=note>The length of the [[wikipedia:Tropical year|solar year]] given in [[Appendix D]] was 365 days, 5 hours, 48 minutes, 46 seconds.</ref>
+
+==History==
+To correct the accumulating deficit of the calendar, Steward Mardil inserted two leap days into {{TA|2059}}. In addition, he reformed the calendar, to take effect in {{TA|2060|n}}, by making all months of equal length at 30 days and arranging the two extra days as holidays outside of the months. In {{TA|2360|n}} Steward [[Hador (Steward of Gondor)|Hador]] added 1 day to that year. There were no millennial additions in {{TA|3000|n}}, but by the end of the [[Third Age]] the calendar was in deficit by less than 1 day.
+
+The Stewards' Reckoning was eventually adopted by most speakers of [[Westron]].
+
+In {{TA|3019}}, the calendar was replaced by the [[New Reckoning]].<ref name="D2" />
+
+==The Calendar==
+The Revised Calendar consisted of twelve months, each of thirty days, and five additional days that belonged to no month. The months were taken from those of the Kings' Reckoning, with the change that the seventh and eighth months were shortened to thirty days, and the two days placed outside the months as [[tuilérë]], meaning Spring-day, and [[yáviérë]], meaning Autumn-day.
+
+{|class="TGtable"
+|- 
+!Month number
+!Quenya
+!Sindarin
+!Length
+!Relationship to the [[Shire Calendar]]<ref group=note>Based on the statement in [[Appendix D]] that the day of the destruction of the [[One Ring]], Shire [[25 March]] in {{TA|3019}}, "was, however, March 25 in both Kings' and Stewards' Reckoning." This may only apply around the end of the Third Age, since it is unknown if the [[Shire Calendar]] incorporated the [[Kings' Reckoning]] 2-day "millennial additions" or any of the Stewards' Reckoning additional adjustments.</ref>
+|-
+|&nbsp;||[[Yestarë]]|| || 1 || [[2 Yule]]
+|-
+|1||[[Narvinyë]]||Narwain|| 30 || [[Afteryule]]
+|-
+|2||[[Nénimë]] || Nínui || 30 || [[Solmath]]
+|-
+|3||[[Súlimë]] || Gwaeron || 30 || [[Rethe]]
+|-
+| ||[[Tuilérë]] || || 1 || 1 [[Astron]]
+|-
+|4||[[Víressë]] || Gwirith || 30 || 2 [[Astron]] through 1 [[Thrimidge]]
+|-
+|5||[[Lótessë]] || Lothron || 30 || 2 [[Thrimidge]] through 1 [[Forelithe]]
+|-
+|6 || [[Nárië]] || Nórui || 30 || 2 [[Forelithe]] through [[Lithedays|1 Lithe]]
+|-
+|&nbsp;||[[Loëndë]]/[[Enderi]]|| || 1/2 || [[Mid-year's Day]]/[[Overlithe]]
+|-
+|7||[[Cermië]] || Cerveth || 30 || [[Lithedays|2 Lithe]] through 29 [[Afterlithe]]
+|-
+|8||[[Úrimë]] || Urui || 30 || 30 [[Afterlithe]] through 29 [[Wedmath]]
+|-
+|9||[[Yavannië]] || Ivanneth || 30 || 30 [[Wedmath]] through 29 [[Halimath]]
+|-
+| ||[[Yáviérë]] || || 1 || 30 [[Halimath]]
+|-
+|10||[[Narquelië]] || Narbeleth || 30 || [[Winterfilth]]
+|-
+|11||[[Hísimë]] || Hithui || 30 || [[Blotmath]]
+|-
+|12||[[Ringarë]] || Girithron || 30 || [[Foreyule]]
+|-
+|&nbsp;||[[Mettarë]]|| || 1 || [[1 Yule]]
+|}
+
+The names of the months and days were popularly used in [[Quenya]], though the [[Dúnedain]] adhered to [[Sindarin]] versions.<ref name="D2" />
+
+==Observations==
+*Yestarë: approximately the Winter Solstice
+*Tuilérë: near or just after the Vernal Equinox
+*Loëndë: approximately the Summer Solstice
+*Yáviérë: near or just before the Autumnal Equinox
+
+==Controversy==
+Tolkien stated that the deficit remaining after [[Mardil|Steward Mardil]]'s 2-day addition to {{TA|2059}} was "about 8 hours".<ref name="D2" /> ''[[The Lord of the Rings: A Reader's Companion]]'' states that the remaining deficit at the end of {{TA|2059|n}} should have amounted to "2 hours, 16 minutes, 40 seconds".<ref name="RC" />
+
+Some have suggested (including ''[[The Lord of the Rings: A Reader's Companion|The Reader's Companion]]'') that Tolkien's "about 8 hours" deficit refers to the end of {{TA|2060|n}}, but only if the leap day in {{TA|2060|n}} was dropped in consequence.<ref name="RC" /><ref name="TLvAR">{{webcite|articleurl=http://rinsanity.weebly.com/tolkien.html|articlename=Tolkien's Legendarium versus Astronomical Reality|dated=5 March 2016|website=[http://rinsanity.weebly.com/ Redirected Insanity]|author=Aaron Chong|accessed=15 May 2018}}</ref><ref name="lal">{{webcite|articleurl=http://lalaith.vpsurf.de/Tolkien/Time.html|articlename=The Reckoning of Time|author=[[Andreas Möhn]]|website=Lalaith|accessed=30 April 2006}}</ref>
+
+[[Andreas Möhn]] goes further in his blog post "[https://lalaithmesp.blogspot.de/2018/03/tolkien-has-reckoned-correct-after-all.html Tolkien has reckoned correct after all]", speculating that Tolkien "failed to specify" additional Stewards' Reckoning rules, which would explain the deficit figures published in [[Appendix D]].<ref name="lalaithmesp">{{webcite|articleurl=https://lalaithmesp.blogspot.de/2018/03/tolkien-has-reckoned-correct-after-all.html|articlename=Tolkien has reckoned correct after all|author=[[Andreas Möhn]]|dated=9 March 2018|website=Lalaith's Middle-earth Science Pages|accessed=15 May 2018}}</ref>
+
+[https://psarando.github.io/shire-reckoning/Kings_Reckoning_Rules_and_Deficit.html Paul Sarando] suggests instead that a simpler explanation for 
+Tolkien's puzzling "about 8 hours" may have been the result of a mathematical shortcut of using the deficit calculation for the end of [[Second Age]] 5501 (which would have been the same year as {{TA|2060}} if the count of Second Age years had continued) instead of correctly calculating the deficit for {{SA|3441}} plus the end of {{TA|2060}}.<ref name="psarandoKR">{{webcite|author=Paul Sarando|articleurl=https://psarando.github.io/shire-reckoning/Kings_Reckoning_Rules_and_Deficit.html|articlename=The Kings’ Reckoning Rules and the ''Deficit''|website=[https://psarando.github.io/shire-reckoning/ Shire Reckoning: A visualization of the calendars described in J.R.R. Tolkien's The Lord of the Rings Appendix D]|accessed=15 May 2018}}</ref>
+
+{{References|note}}
+
+==External links==
+
+* The [https://psarando.github.io/shire-reckoning Shire Reckoning] project, dedicated to simulations and detailed analysis of all the calendars of ''The Lord of the Rings'' [[Appendix D]].
+
+[[Category:Gondor]]
+[[Category:Middle-earth Calendars]]
+[[de:Truchsessen-Zeitrechnung]]
+[[fi:Käskynhaltijain lasku]]

@@ -1,0 +1,37 @@
+{{cleanup}}
+'''''Angband''''' is a dungeon-crawling roguelike computer game derived from ''Umoria'' (C for Unix port of a game called ''[[The Dungeons of Moria (video game)|Moria]]'').  The first version was created by Alex Cutler and Andy Astrand at the University of Warwick in 1990. It was later enhanced by many others. Robert Alan Koeneke was the author of the game.<ref>{{webcite|website=[http://www.lysator.liu.se/tolkien-games/ Tolkien computer games]|articleurl=http://www.lysator.liu.se/tolkien-games/entry/dungeons-moria.html|articlename=The Dungeons of Moria|accessed=16 August 2010}}</ref>
+
+It is based on the writings of [[J.R.R. Tolkien]], in which [[Angband]] was the fortress of [[Morgoth]]. The adventurer is presented with 100 levels of the title dungeon, in which he or she seeks to amass enough power and equipment to ultimately defeat [[Morgoth]].  A new level is randomly generated each time the player changes levels, which gives ''Angband'' great replay value: no two games will be the same.
+
+A veritable family tree of around sixty (around a dozen of which are active) variants of Angband exist, each often greatly differing in purpose and depth of changes. The best known variants are EyAngband, Hengband, OAngband, ToME, and ZAngband.
+
+The Usenet group <code>[http://groups.google.com/groups?hl=en&group=rec.games.roguelike.angband rec.games.roguelike.angband]</code> is a place to discuss all the aspects of the game. An IRC channel, <code>#angband</code>, exists on the WorldIRC network (<code>irc.worldirc.org</code>).
+
+''Angband'' was originally shared-source but not strictly free/open software due to being licensed under "non commercial use only" terms, as was its ancestor ''[[The Dungeons of Moria (video game)|Moria]]''.  However, a nine-year-long effort to re-license ''Angband'' under the GNU GPL (i.e. getting permission from all contributors) was eventually successful.  One advantage of this is allowing it to be bundled with "commercial" Linux distributions, and with those (such as Debian) with a moderately strict FL/OS ethos.
+
+After Cutler and Astrand, the later principal developers of ''Angband'' included Charles Swiger, Ben Harrison and Robert Rühlmann.  Harrison was the maintainer responsible for the "Great Code Cleanup", modularizing, extending, and greatly improving the readability of the ''Angband'' source code, which lead to the large number of variants of ''Angband'' currently available, as well as the rather large number of ports to different platforms. Like other maintainers, he eventually moved on to other interests, passing the title to Robert Rühlmann in 2000.
+
+Gameplay of Vanilla ''Angband'', as the original is now often called, is most often compared to ''NetHack'', though in reality the games are almost polar opposites. ''Angband'' adopts a more serious tone than ''NetHack'', takes far longer to win for even the best players, and the focus of the game is more on combat tactics, inventory management and risk minimalisation than ''NetHack''ish puzzle solving and special casing. This has been the source of mild conflicts between the two communities.
+
+==Angband terms==
+*'''Artifact''': A special item with preset statistics that cannot be destroyed, and of which only one instance exists. Once identified, they are never generated again.
+*'''*Band''': Generic name for any ''Angband'' variant.
+*'''Borg''': An automated ''Angband'' player.
+*'''Ego item''': A standard item with special abilities, which vary according to its ego type. eg. Soft Leather Boots of ''Speed''.
+*'''RNG''': Random Number Generator/God. Due to the importance of random effects in ''Angband'', the game RNG is often referred to anthropomorphically.
+*'''Unique''': A monster of which only one instance exists. Once killed they are never generated again.  Systematically finding and killing them can be important to victory in the game, since the hardest few uniques can magically summon other uniques and thereby overpower the player.  
+*'''Vanilla''': The unmodified version of ''Angband''.
+*'''Vault''': A special room which is not random, but is produced from a plan.
+*'''Wizard''': A debug/cheat mode.
+
+==External links==
+*[http://rephial.org/ Rephial] is the current main download site for ''Angband''.
+*[http://www.thangorodrim.net/ Thangorodrim] is the previous primary ''Angband'' site, though no longer actively maintained. It features development information, a variant list.
+*[http://angband.oook.cz/ Angband.oook.cz] (or ''oook'') contains the ''Angband'' ladder, detailed spoilers, and other resources.
+*[http://www.damnsw.net/~devink/ The ''Angband'' Comic] has been defunct since 2002. It was drawn in the style of the game's text interface.
+*[http://penancecomic.com/ Penance] is a new ''Angband'' webcomic, but drawn in a more traditional style.
+*The [http://www.phial.com/angband/ old official ''Angband'' home page] was maintained by Ben Harrison until 2000.
+
+{{references}}
+{{title|italics}}
+[[Category:Roguelikes]]

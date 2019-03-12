@@ -1,0 +1,83 @@
+__NOTOC__
+{{Edain infobox
+| name=Boron
+| image=[[File:Juliana Pinho - Baran and his sons Baranor and Boron.png|250px]]
+| caption=Boron (right) in "Baran and his sons Baranor and Boron" by [[:Category:Images by Juliana Pinho|Juliana Pinho]]
+| pronun=
+| othernames=
+| titles=3rd Head of the [[House of Bëor]]
+| position=
+| location=[[Estolad]]
+| affiliation=
+| language=
+| birth={{FA|315}}
+| birthlocation=
+| rule={{FA|380}}-{{FA|408|n}}
+| death={{FA|408}}
+| deathlocation=
+| age=93
+| notablefor=
+| house=[[House of Bëor]]
+| parentage=[[Baran]]
+| siblings=[[Baranor (son of Baran)|Baranor]]
+| spouse=
+| children=[[Boromir (Lord of Ladros)|Boromir]] and [[Belegor]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Boron''' ({{FA|315}}-{{FA|408|n}}<ref name="WJBeor">{{WJ|14}}, ''(i) The House of Bëor''</ref>) was the third head of the [[House of Bëor]].
+
+== History ==
+Boron was the son of [[Baran]] and grandson of [[Bëor|Bëor the Old]], and inherited the title of family head after his father's death in {{FA|380|n}}. He had two sons, [[Boromir (Lord of Ladros)|Boromir]] and [[Belegor]], the eldest of which inherited his title and also became the first [[Lord of Ladros]].<ref name="WJBeor"/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | | | | | | | BEO | | | | |BEO=[[Bëor]]<br/><small>''{{FA|262|n}} - {{FA|355|n}}''</small>}}
+{{familytree | | | | | | |,|-|-|^|-|-|-|.| |}}
+{{familytree | | | | | | BAR | | | | | BEL |BAR=[[Baran]]<br/><small>''{{FA|289|n}} - {{FA|390|n}}''</small>|BEL=[[Belen]]<br/><small>''b. {{FA|292|n}}''</small>}}
+{{familytree | | | |,|-|-|^|-|-|.| | | |!| |}}
+{{familytree | | | BOR | | | | BNR | | BEL |BOR='''BORON'''<br/><small>''{{FA|315|n}} - {{FA|408|n}}''</small>|BNR=[[Baranor (son of Baran)|Baranor]]<br/><small>''b. {{FA|317|n}}''</small>|BEL=[[Beldir]]<br/><small>''b. {{FA|316|n}}''</small>}}
+{{familytree | |,|-|^|-|.| | | |!| | | |!| |}}
+{{familytree | BOR | | BEL | | BER | | BEM |BOR=[[Boromir (Lord of Ladros)|Boromir]]<br/><small>''{{FA|338|n}} - {{FA|432|n}}''</small>|BEL=[[Belegor]]<br/><small>''b. {{FA|340|n}}''</small>|BER=[[Bereg]]<br/><small>''b. {{FA|340|n}}''</small>|BEM=[[Belemir]]<br/><small>''b. {{FA|339|n}}''</small>|ADA=[[Adanel]]<br/><small>''b. {{FA|339|n}}''</small>}}
+{{familytree | |)|-|-|-|v|-|-|-|.| | | |!| |}}
+{{familytree | BRE | | AND | | BER | | BEN |BRE=[[Bregor]]<br/><small>''{{FA|359|n}} - {{FA|448|n}}''</small>|AND=[[Andreth]]<br/><small>''{{FA|361|n}} - {{FA|455|n}}''</small>|BER=[[Beril]]<br/><small>''b. {{FA|365|n}}''</small>|BEN=[[Beren (son of Belemir)|Beren]]<br/><small>''b. {{FA|374|n}}''</small>}}
+{{familytree | |:| | | | | | | | | | | | | |}}
+{{familytree | |:| | | | | | | | | | | | | |}}
+{{familytree | BER | | | | | | | | | | | | |BER=[[Beren]]<br/><small>''{{FA|432|n}} - {{FA|503|n}}''</small>}}
+{{familytree/end}}
+
+==Etymology==
+''Boron'' is a word in [[Old Noldorin]] and [[Ilkorin]] for "Steadfast, trusty man, faithful vassal".<ref>{{LR|Etymologies}}, root BOR-</ref>
+
+==Other Versions of the Legendarium==
+In the ''[[The Grey Annals]]'', created in the 1930s,<ref>{{WJ|P1}}, p, 3</ref> Bëor was followed by his sons [[Bregolas]] and [[Barahir]].  After publication of ''[[The Lord of the Rings]]'' a new genealogy for the House of Bëor was made in the 1950s and at that time four generations (Baran, '''Boron''', Boromir, and Bregor) were inserted after Bëor, with Bregor the father of Bregolas and Barahir.<ref name="WJBeor"/>
+
+{{references}}
+{{seq-start}}
+{{seq-head
+| race=edain
+| house=[[House of Bëor]]
+| born={{FA|315}}
+| died={{FA|408}}
+}}
+{{seq
+| prev=[[Baran]]
+| list=3rd Head of the [[House of Bëor]]
+| dates={{FA|380}} - {{FA|408|n}}
+| next=[[Boromir (Lord of Ladros)|Boromir]]
+}}
+{{seq-end}}
+
+[[Category:Characters in The Silmarillion]]
+[[Category:House of Bëor]]
+[[Category:Sindarin names]]
+[[Category:First Age characters]]
+
+[[de:Boron]]
+[[fi:Boron]]
+[[fr:encyclo:personnages:hommes:1a:peuple_de_beor:boron]]

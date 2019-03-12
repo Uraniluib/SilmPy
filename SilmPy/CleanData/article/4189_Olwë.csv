@@ -1,0 +1,84 @@
+{{teleri infobox
+| name=Olwë
+| image=[[File:Karolina Węgrzyn - OlweBeleriand.jpg|250px|Olwë in Beleriand]]
+| caption="Olwë in Beleriand" by [[Karolina Węgrzyn]]
+| pronun=
+| othernames=''Olue'' ([[Telerin|T]])</br>Volwë
+| titles=King of the [[Teleri]]
+| position=
+| location=[[Alqualondë]]
+| affiliation=
+| language=[[Telerin]]
+| birth=between {{YT|1050}} and {{YT|1102|n}}
+| birthlocation=[[Cuiviénen]]
+| rule=
+| death=
+| deathlocation=
+| age=
+| notablefor=
+| house=House of Olwë
+| parentage=Unknown
+| siblings=[[Thingol|Elwë]], possibly [[Elmo]]<ref name="Galadriel">{{UT|Galadriel}}</ref>
+| spouse=
+| children=[[Eärwen]], unnamed sons<ref name="Sons">{{S|Princes}}</ref>
+| gender=Male
+| hair=White<ref name="Coming">{{MR|P3I3}}, p. 163</ref>
+| eyes=Blue<ref name="Coming">{{MR|P3I3}}, p. 163</ref>
+| clothing=
+| weapons=
+| steed=
+}}
+'''Olwë''' ([[Quenya|Q]], pron. {{IPA|[ˈolwe]}}) was the King of the [[Teleri]] in [[Aman]], also known as the [[Falmari]]. He was the younger brother of [[Thingol|Elwë]], King of the [[Sindar]]. He may have had a second brother, [[Elmo]].<ref name="Galadriel">{{UT|Galadriel}}</ref>
+
+==History==
+Elwë and Olwë were both lords of the third clan of the Elves, known later as the Teleri,<ref>{{S|Captivity}}</ref> and together they lead their people from [[Cuiviénen]] to the [[Aman|West]]:
+
+{{quote|Two lords they had, for their numbers were very great: Elwë [[Singollo]], which signifies [[Greymantle]], and Olwë his brother. The hair of Olwë was long and white, and his eyes were blue; but the hair of Elwë was grey as silver, and his eyes were as stars; he was the tallest of all the Elven-folk.|"[[Of the Coming of the Elves and the Captivity of Melkor]]"<ref name="Coming">{{MR|P3I3}}, p. 163</ref>}}
+
+However, during a long wait in [[Beleriand]] Elwë disappeared.<ref>{{S|Thingol}}</ref> After years of searching, Olwë grew impatient, and led the greater part of the Teleri to [[Valinor]], on the insistence of the [[Valar|Vala]] [[Ulmo]].
+
+Olwë became Lord of the island of [[Tol Eressëa]], where the Teleri built a great number of cities, and grew in number. When they finally came to [[Eldamar]] some centuries later, Olwë became the king of [[Alqualondë]]. His daughter [[Eärwen]] married [[Finarfin]] son of [[Finwë]] and later King of the [[Noldor]] in [[Valinor]]. Besides Eärwen, Olwë had several sons.<ref name="Sons">{{S|Princes}}</ref>
+
+When [[Fëanor]] revolted against the Valar he attempted to persuade the Teleri to join him in order to obtain their ships. They were unmoved, wanting no other realm than Eldamar and no other lord than Olwë. Fëanor reproached Olwë and his people as "fainthearted loiterers" and reminded them that the Noldor had aided them when they finally arrived. Olwë rebuked Fëanor's folly and refused to give him any ships of the Teleri, which they valued as the Noldor did their gems.  Fëanor withdrew but then led his forces to Alqualondë to take the ships by force. As the Noldor rowed the stolen vessels northward, Olwë called for [[Ossë]] to stop them but it was not permitted by the Valar.<ref>{{S|Flight}}</ref>
+
+==Other names==
+In one manuscript, the [[Telerin]] form of ''Olwë'' is said to be '''''Olue'''''.<ref name=Quendi>{{WJ|Quendi}} p. 369</ref> In another manuscript the Telerin form is similar to the Quenya form: ''Olwë''.<ref name=Shibboleth>{{PM|Shibboleth}} p. 357</ref>
+
+The Falmari called him sometimes '''''Volwë'''''.<ref name=Shibboleth/>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | |,|-|-|-|v|-|-|-|.| | | |}}
+{{familytree| MEL |y| ELW | | OLW | | ELM | | |MEL=[[Melian]]|ELW=[[Thingol|Elwë]]|OLW='''OLWË'''|ELM=[[Elmo]] }}
+{{familytree| | | |!| | | |,|-|^|-|-|-|-|-|.| |}}
+{{familytree| | | LUT | | EAR |y| FIN | | SON |LUT=[[Lúthien]]|EAR=[[Eärwen]]|FIN=[[Finarfin]]|SON=''sons''}}
+{{familytree| |,|-|-|-|v|-|-|-|+|-|-|-|.| | | |}}
+{{familytree| FIN | | ANG | | AEG | | GAL | | |FIN=[[Finrod]]|ANG=[[Angrod]]|AEG=[[Aegnor]]|GAL=[[Galadriel]] }}
+{{familytree/end}}
+
+{{references}}
+{{seq-start}}
+{{seq-head
+|race=teleri
+|house=House of Olwë
+|born=during the [[Years of the Trees]]
+|died=
+}}
+{{seq
+|pvac=None
+|prev=Position created
+|nvac=None
+|next=Incumbent
+|list=King of the [[Falmari]]
+|dates=[[Years of the Trees]] - 
+}}
+{{seq-end}}
+{{DEFAULTSORT:Olwe}}
+[[Category:Characters in The Silmarillion]]
+[[Category:First Age characters]]
+[[Category:Falmari]]
+[[Category:Quenya names]]
+[[Category:Rulers]]
+[[de:Olwe]]
+[[fr:encyclo/personnages/elfes/teleri/falmari/olwe]]
+[[fi:Olwë]]

@@ -1,0 +1,34 @@
+
+Cirth referred to the runic writing systems in Middle-earth.  Cirth (singular certh) means "runes" in Sindarin.  Certhas refers to a runic alphabet.
+== Table of the earliest Cirth ==
+{|border="1"|1|p|8|t|e|c|R|r|l|i|-|2|b|9|d|r|g|a|l|S|u/w?|-|5The original value of this certh wasn&rsquo;t given by Tolkien, but he mentions that in later Angerthas, it took the value hw after 6 became m (for reasons explained below) while he doesnt give us the early certh for M. We can infer that this was the certh for M judging by both its labial shape, and the symmetrical shape used for nasals, like @, u.|m?|@|n|u|ñ|gthis Certh was h when #/% were s and vice versa.|s/h|z|e|-|6This certh will have the value m in later Angerthas, for reasons explained below. Its original value can&rsquo;t be guessed (maybe the certh for a?), but judging from the  &ldquo;labial&rdquo; shape, it could be w.|?|#The reversal of the stem didn&rsquo;t had any phonologic significance. These Cirth were interchangeable and used for h or s depending on when g was s or h. This would perhaps apply to these early Cirth as well|h/s|%|h/s|hThis Certh will have the value ss in later Angerthas. It must had another unknown value before (maybe the certh for a?).|ss?|b|o|-|}
+=== Notes ===
+
+==Structure==
+The above table gives the most ancient known cirth that would later give the Certhas Daeron. They had possibly different values at that time than the ones given here. 
+The known ancient cirth don&rsquo;t cover all the sounds of Sindarin, since we are missing rh, lh, mh, v, y, œ. Perhaps they were used for the Old Sindarin tongue, and many of the above mentioned sounds indeed didn&rsquo;t exist in that language. However still frequent sounds w and a are missing. This indicates that some ancient, unknown cirth could have existed, but didn&rsquo;t make it to the later systems; a fuller table therefore cant be reconstructed.
+As for the vowel usage, perhaps the certh for u possibly was used for w (like in early latin orthography). The certh for a can&rsquo;t be guessed, so maybe this sound was &ldquo;meant&rdquo; (like in some Quenya Tengwar Modes). More possibly it was one of the two cirth whose value can&rsquo;t be determined, or it was one of some other cirth that did not survive till the later Angerthas.
+Long vowels were evidently indicated by doubling (cf. the known certh for long o, n, is a simplified form of bb).
+==History==
+During the Chaining of Melkor, the Sindar of Beleriand began developing an alphabet for their language. Its letters were entirely made for carving on wood, stone or metal, hence their angular forms and straight lines. These letters were named cirth (sing. certh).
+The assignment of values was unsystematic. The form of a certh was consisted of a stem and a branch. The branch was found usually on the right side of the stem, and sometimes on the left, but with no phonetic significance. Therefore 3 would just be an alternative form of 1.
+Certhas Daeron was created by Daeron, the minstrel of king Thingol of Doriath and was later expanded into what was known as the Angerthas Daeron. Although the Cirth were later largely replaced by the Tengwar (which were enhanced and brought by Fëanor), they were adopted by Dwarves to write down their Khuzdul language (Angerthas Moria and Angerthas Erebor) because its straight lines were better suited to carving than the curved strokes of the Tengwar.
+==Inspiration==
+Many letters have shapes also found in the historical https://en.wikipedia.org/wiki/Elder_Futhark Futhark, but their sound values are only similar in a few of the vowels. Rather, the system of assignment of sound values is much more systematic in the Cirth than in the historical runes (e.g., voiced variants of a voiceless sound are expressed by an additional stroke). A similar system has been proposed for a few historical runes (e.g. p &#5832;  and w &#5817; as variants of b &#5842;), but is in any case much more obscure.
+==Encoding==
+The Cirth are not part of the Unicode Standard. However the ConScript Unicode Registry has defined the U+E080&ndash;E0FF range of the Unicode "Private Use Area" for Cirth.
+== See also ==
+* Tengwar
+* Sarati
+* Languages
+
+== External links ==
+* http://www.cirth.de Cirth.de - Explore the appearances of runes in Tolkiens work
+* http://ring-lord.tripod.com/cirth/index.htm Dan Smiths Cirth article Information and font to download
+*http://en.wikibooks.org/wiki/History_of_Elven_writing_systems History of Elven writing systems
+* http://std.dkuug.dk/jtc1/sc2/wg2/docs/n1642/n1642.htm Official proposal to encode Cirth in Unicode
+* http://www.evertype.com/standards/csur/cirth.html Cirth proposal for ConScript Unicode Registry
+Category:Writing systems
+de:Cirth
+fi:Cirth
+fr:encyclo/langues/cirth
