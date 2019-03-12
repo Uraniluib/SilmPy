@@ -1,0 +1,45 @@
+#! /usr/bin/env python3
+"""
+
+@author: xingg
+"""
+
+import igraph
+
+g = igraph.Graph()
+
+# open the category data
+category = open('..//Data//category(Eä).csv','r',encoding = 'utf-8')
+categories = {}
+for c in category.readlines():
+    c = c.split(', ')
+    categories[c[0]] = c[1].replace('\n','')
+    g.add_vertex(name = categories[c[0]], label = categories[c[0]], size = 80, color = 'blue')
+
+# open category <--> category
+category_graph = open('..//Data//category_graph(Eä).csv', 'r', encoding = 'utf-8')
+for cg in category_graph.readlines():
+    cg = cg.split(', ')
+    g.add_edge(categories[cg[0]],categories[cg[1].replace('\n','')])
+
+layout = g.layout("kk")
+#igraph.plot(g, layout = layout, bbox = (1000, 1000), margin = 10).save("graphs.png")
+vertexList = []
+for r in ["Bridges"]:
+    vertexList = vertexList + g.neighbors(g.vs.find(name=r)) 
+#print(vertexList)
+'''
+Case 1: Bridges neighbors
+>>> print(vertexList)
+[315]
+'''
+vertexList = []
+for r in ["Bridges","Sites_of_civilisation"]:
+    vertexList = vertexList + g.neighbors(g.vs.find(name=r)) 
+#print(vertexList)
+'''
+Case 2: Bridges and Sites_of_civilisation neighbors
+>>> print(vertexList)
+[315, 63, 73, 317, 318, 319, 320, 321, 322, 323, 324, 325, 326, 327, 328, 329, 330, 331, 332]
+'''
+
