@@ -1,0 +1,518 @@
+{{cleanup}}
+{{disambig-more|The Lord of the Rings|[[The Lord of the Rings (disambiguation)]]}}
+{{video game infobox| image=[[Image:Lotro logo.png|250px]]| name=The Lord of the Rings Online| developer=[[Turbine|Turbine, Inc.]]| publisher=[[Turbine|Turbine, Inc.]]
+[[Midway Games]]
+[[Warner Bros. Interactive Entertainment]] (2010-)
+| platform=Microsoft Windows, OS X (Beta)| releasedate=April 24, [[2007]]| genre=MMORPG| modes=| rating=| distribution=}}
+<!--Add the following sections: Crafting, Economy & Currency, Social (Kinships), Hobbies (Fishing), Housing, Special packs, Festivals, Game Music, Music system, Instances & Raids, Skills & Traits, Quests & Tasks, Reputation and Deeds-->'''''The Lord of the Rings Online''''' (commonly abbreviated to '''LOTRO''' or '''LotRO''') is an MMORPG (Massively Multiplayer Online Role-Playing Game) for PC and OS X that takes place in the world of [[Arda]] during the time of ''[[The Lord of the Rings]].'' It was originally branded as '''The Lord of the Rings Online: Shadows of Angmar''', but with later updates, that subtitle was dropped. 
+
+The players take on the role of adventurers of the [[Free peoples|Free Peoples]] of [[Middle-earth]]. The events of the game are concurrent with the events of ''[[The Lord of the Rings]]'' but most of the game revolves around events that occurred elsewhere or in the wake of events in the books. The game draws inspiration from people, places and events only mentioned in the books, combining these with original concepts to expand on parts of Middle-earth Tolkien did not. The main quest series of the game, known as Epic Quests, are divided into volumes, books and chapters, emulating the structure of ''The Lord of the Rings''.
+
+To date, there have been six purchasable expansions: Mines of Moria (2008), Siege of Mirkwood (2009), Rise of Isengard (2011), Riders of Rohan (2012), Helm's Deep (2013) and Mordor (2017),  with many smaller updates in between.
+ 
+==Development==
+{{rewrite}}
+<!--This is a copy of wikipedia's article. Rewrite and expansion is needed, especially on post-2007 updates-->
+Development began in 1998, when [[Sierra Entertainment|Sierra]] started work on a game called ''[[Middle-earth Online]]''. Following [[Vivendi|Vivendi Universal Games]]' takeover of Sierra, the game's production was shared with [[Turbine]]. Turbine secured the rights of the entire game in March 2004,<ref>[http://www.videogamer.com/news/turbine_spin_into_action_to_secure_tolkien_license.html Turbine spin into action to secure Tolkien license - VideoGamer.com]</ref> and it was renamed to ''The Lord of the Rings Online''. It was originally subscription-based, but later became free-to-play with optional paid subscription and microtransactions.
+
+A closed beta was announced on [[8 September|September 8]], [[2006]]. An open beta began on [[30 March|March 30]], [[2007]], and was open to all who pre-ordered the game's Founders Club edition. In April [[2007]], the beta opened to the public.
+
+<!--Check everything.-->
+==Gameplay==
+===Characters===
+''Main article: [[Character Classes (LOTRO)]]''
+Like many RPGs, ''The Lord of the Rings Online'' has a system of character classes and levels. Each character chooses a race and a class on character creation, this cannot be changed. Players are able to play as any of the [[Free Peoples]] - [[Elves]], [[Men]], [[Dwarves]], [[Hobbits]], [[Beornings]], or [[High Elves]]. Male or female characters can be created, except in the case of Dwarves. As per Tolkien, Dwarf women are very rare and seldom leave their mountain halls. There are ten classes: Beorning, Burglar, Captain, Champion, Guardian, Hunter, Lore-master, Minstrel, Rune-keeper, and Warden.
+
+Customization of the character's abilities can be done by changing equipment and traits. As of the [[The Lord of the Rings Online#Helm.27s Deep Expansion|Helm's Deep expansion]], class traits work on a tree system, with each class having three "trait trees" where traits can be selected with earned points and unlocking enough traits in a particular tree allows higher-level traits to be selected and applies additional bonus. In addition to class traits are racial traits, such as Men being able to slot a trait to do additional damage with swords or Hobbits being able to slot a trait that allows them to throw a stone, and virtue traits which boost the character's stats.
+
+Levels are significant, with much lower level enemies being extremely easy to defeat and much higher level enemies being nearly impossible to defeat. Each region has enemies and quests with a range of levels usually consecutive to those of an adjacent region. Quests over five levels above the character's level are inaccessible. In addition to being able to complete quest and defeat enemies in more locations, characters gain access to additional equipment, skills, traits and instances as they level up. Levels are increased by gaining experience, which is earned by completing quests and instances, defeating enemies of an appropriate level, and crafting.
+
+===World===
+''The Lord of the Rings Online'' is an "open-world" game in which most locations that have been released can be freely accessed on an open landscape (although some places, such as Moria, require certain quests to be completed first.) The game world is split into "lands", large areas of Middle-Earth. As of Update 21, the four lands in the game are [[Eriador]], [[Rhovanion]], [[Gondor]], and [[Mordor]]. Each land is in turn divided into regions, e.g. [[Bree-land]] in Eriador, and each region contains areas, e.g. [[Andrath]] within Bree-land.
+
+Although most of the land is available to all for exploration, most regions require non-VIPs to purchase a quest pack to access quests, deeds and instances associated with that region. A few regions, such as East and West Rohan, require expansion packs to be purchased to unlock content, even for VIPs. Each region is generally seen as it was in a certain time in the War of the Ring, for example Lothlórien is visited by the player at the same time as the [[Fellowship of the Ring]] rested there, and [[Pelargir]] just after [[Aragorn]] liberated the city from the [[Corsairs of Umbar]].
+
+===Quests===
+Much of the game's completable content is in the form of quests. Quests consist of a series of objectives, often including speaking with NPCs, defeating certain enemies, and recovering certain items from the ground or from defeated enemies. Most quests have a small number of objectives but may unlock additional quests upon completion to form a quest chain. Quests are usually started by started by speaking with a particular Non-Player Character (NPC), indicated with a ring icon above the NPC's head. The forms of ring icons and what they indicate are as follows:
+
+*Gold ring with blue aura: the NPC has a quest that is approximately appropriate for the character's level.
+*Gold ring with blue aura and fiery inscription: the NPC must be spoken with to advance the quest.
+*Bright gold ring: the NPC has an Epic quest available.
+*Gold ring with orange flames: the NPC must be spoken to to advance the Epic quest.
+*Blue ring and quill: the NPC has a comment about an active quest, speaking to the NPC will not advance the quest but may give additional information.
+*Gold ring with hourglass: the NPC has a quest with a cooldown, the player must wait for the cooldown to expire before accepting the quest.
+*Silver ring: the NPC has a quest that is too high level for the player to accept at that level.
+*Transparent grey ring: the NPC has a "trivial" quest, one far below the player's level.
+*Gold ring with anvil: the NPC has a crafting quest, and involves the crafting system in some way.
+*Gold ring with sword: The NPC has an allegiance quest; quests that are unique to the Mordor Expansion.
+
+Some quests are started by obtaining unique items dropped from specific enemies. The [[The Lord of the Rings Online#Riders of Rohan Expansion|Riders of Rohan expansion]] introduced auto-bestowed quests, which bring up a quest prompt when the player defeats a specific type of enemy or finds a certain location. Such enemies are marked with ring icons similarly to how NPC quest givers are. Players have the option of accepting these quests automatically or choosing to manually accept or decline each prompt. Most landscape quests can only be completed once, some special landscape quests and most instance quests can be completed once a day any number of times, and a few landscape quests can be repeated at any time up to a certain number of times.
+
+Quests are categorized according to what area, instance or other section they are associated with. Of note are the Epic Quests, a series that tells the main storyline of the game. In imitation of [[The Lord of the Rings|the Lord of the Rings book]], the epic quests are divided into Volumes, which are divided into Books which in turn are divided into Chapters. Each Chapter is usually an individual quest. Epic Quests bring the player through the landscape but are considered apart from it, therefore most Epic Quests are available to all players regardless of whether or not any quest packs are unlocked. A notable exception is the end of [[Allies of the King|Volume III: Allies of the King]], which requires purchase of the Helm's Deep expansion to complete. The Black Book of Mordor, the new main storyline for quests after the Epic Books, has eight chapters, all spanning various areas in Middle Earth including [[Mordor]], the Strongholds of the North, the [[Iron Hills]], and the [[Ered Mithrin]].
+
+===Deeds===
+Deeds are non-repeatable achievements recorded on an interface window called the Deed Log. Common deed objectives include completing a certain number of quests in a particular area or region (Quest Deeds), defeating a certain number of enemies of a specific type in a particular region (Slayer Deeds), discovering specified locations (Explorer Deeds), and reaching the next tier of reputation with a faction. Most Deeds award Turbine points. Deeds in a particular region usually award reputation in that region's faction. Deeds also commonly reward marks, virtues, and titles
+
+===Instances===
+Instances are locations in the game separated from the open landscape, not accessible through normal travel. Instances can take place in either separate versions of the locations available on the landscape (for example, Pelargir while Aragorn's host retakes it from the corsairs) or in locations not accessible anywhere else (such as Dale). Most instances are private instances, that is, only one player or group of players can enter it and it closes when they complete it, while public instances can be joined at any time by any number of separate players. They are often repeatable, with ones associated with landscape quests being replayable through a Reflecting Pool in the associated region and others accessible through the Instance Finder window. Most private instances have associated quests automatically bestowed upon entering the instance and cancelled upon exiting.
+
+===Fellowships and Kinships===
+Most open landscape content and associated instances are designed to be completable by a solo player, while some locations in the game and Instance Finder instances are meant for a team of players. A group of players with a maximum size of six is known as a fellowship. For larger groups, a raid of up to four fellowships can be formed, for a maximum group size of 24 players. Players are free to group on the open landscape and in public instances, but private instances have a limit on how many players may enter.
+
+Players can found and join lasting organizations known as Kinships in the game. Players in a kinship can communicate in their own kinship chat channel to socialize and plan events with their fellow members.
+
+===Monster Play===
+The game is primarily Player vs. Environment (PvE), with most combat being player characters against computer controlled enemies found throughout the landscape and instances. However in the [[Ettenmoors]] region, players can participate in Player vs. Monster Player battles (PvMP). Players can create Monster characters that only have access to PvMP areas where they battle standard characters, who fight on the side of the Free Peoples. Each monster player class is limited to a specific race. The monster classes are the Blackarrow (Uruk), Defiler (Orc), Reaver (Orc), Stalker (Warg), Warleader (Uruk), and Weaver (Spider) As of [[The Lord of the Rings Online#Update 16: Ashes of Osgiliath|Update 16.2]] a new PvMP area, set in Osgiliath before Boromir's journey to Rivendell and accessed via a banner in the Ettenmoors, was released.
+
+<!--Need elaboration on the below and info on Legendary Items, Mounted Combat and other special systems.-->
+
+Towns and settlements provide Vendors where players can purchase or repair their armour, weapons, and supplies. Towns also often include Mailboxes, Auction Halls, Class Trainers, Forge-masters, Relic-masters, and Stable-masters who allow swift travel between regions.
+
+The player interface allows other aspects of gameplay such as Character screens, Quest and Deed Logs, a Social Panel where players can interact, and a Crafting panel where players use skills to craft new items.
+
+==Releases==
+===Shadows of Angmar===
+<!--Move to expansion-->:{{Main|The Lord of the Rings Online: Shadows of Angmar}}
+''[[The Lord of the Rings Online: Shadows of Angmar|Shadows of Angmar]]'' was released on [[24 April|April 24]], [[2007]]. It included books 1 through 8 of Epic Volume I: Shadows of Angmar. Approximately once every two months a major free update was added to ''The Lord of the Rings Online: Shadows of Angmar''. Each update added a new book to the volume.
+
+====Book 9: Shores of Evendim====
+{{#ev:youtubehd|VOEcXrbG4OI|200|thumb}}
+The first free content update was released on June 14, 2007.<ref>[http://www.lotro-europe.com/news.php?id=3611&pagename=home&search=yes&keyword=Book%209 Book 9: Shores of Evendim Release Date Announced]</ref>
+
+Updates included:
+*A new region - [[Evendim]] - is added, including locations like [[Annúminas]].<ref name="book9">{{webcite|author=|articleurl=http://www.lotro.com/news/pressreleases/136-book-9-shores-of-evendim-release-date-announced|articlename=Book 9: Shores of Evendim Release Date Announced!|dated=5 June 2007|website=LOTRO|accessed=19 February 2012}}</ref>
+*The epic story is expanded with book 9, [[Shores of Evendim]]<ref name="book9"/>
+*100 new quests are added.<ref name="book9"/>
+*A 24-player raid is added, ''Battle for Helegrod''.<ref name="book9"/>
+*Nine new monsters are added.<ref name="book9"/>
+*New Collectible armour sets are added.<ref name="book9"/>
+*Updates to the music system.<ref name="book9"/>
+
+====Book 10: The City of Kings====
+:{{Main|The City of Kings}}
+The second free-content update was released on August 21, 2007 in North America and on August 24, 2007 in Europe.<ref>| [http://www.lotro-europe.com/news.php?id=3949&pagename=home&search=yes&keyword=Book%209 Codemasters Online and Turbine unveil Book 10: The City of the Kings]</ref>
+
+Updates included:
+*Continuation of the Story Line. 
+*Legendary Play – Players can now use Destiny Points to play as a Ranger of the North or as a Troll.
+*Critter Play – Players can now explore Middle-earth from a different viewpoint as a chicken.
+*New Reputation and Bartering Systems – The Reputation system enables players to earn positive and negative standing with different races and groups in Middle-earth based on both monster kills and quest completions. The Bartering system allows players to trade trophies earned in battle for rewards, such as armour sets or mounts.
+*Over 100 new Quests.
+*More customizable user interface.
+
+====Book 11: Prisoner of the Free Peoples====
+:{{Main|Prisoner of the Free Peoples}}
+The third free-content update was released on October 24, 2007 in North America<ref>[http://www.lotro.com/article/430 Turbine and Codemasters Online Gaming to Unveil Book 11: Defenders of Eriador for The Lord of the Rings Online]</ref> and October 25 in Europe.<ref>[http://www.lotro-europe.com/news.php?id=4661&articletype=News Codemasters Online and Turbine to unveil Book 11: Defenders of Eriador]</ref>
+
+Updates included ([http://lorebook.lotro.com/wiki/Release_Notes_Book_11_Official complete release notes]):
+*Continuation of the Epic Story arc, including 13 quests.
+*Player housing – players will be able to customize their houses with items such as furniture and doormats. 
+*Second raid called "The Rift" – 12-player raid in which players encounter a [[Balrogs|Balrog]] for the first time. Turbine has stressed that this is not the [[Durin's Bane|Balrog from Khazad-dûm]].<ref>[http://lotro.tentonhammer.com/index.php?module=ContentExpress&func=display&ceid=287 Book 11 Preview: The Balrogs are Coming]</ref>
+*Two new areas – Tâl Bruinen in the Trollshaws, where [[Gollum]] will be introduced for the first time, and Goblin-town in the [[Misty Mountains]], featured in ''The Hobbit''.
+*More than 100 new quests.
+
+====Book 12: The Ashen Wastes====
+:{{Main|The Ashen Wastes}}
+The fourth free content update was released on February 13, 2008 in North America; and February 14, 2008 in Europe.
+
+Updates included ([http://lorebook.lotro.com/wiki/Release_Notes_Book_12_Official complete release notes]):
+*Continuation of the Story Line. 
+*Character customization - Increased character customization "ranging from haircuts, to some (possible) additions to the trait-system."  In addition, the Outfit system, along with special social clothing designed just for it, will be introduced where a second or third set of clothing can be slotted and displayed while retaining the statistical bonuses of the currently equipped items.<ref>[http://lotro.stratics.com/content/hoclog/hoc10.php Lord of the Rings Online: House of Commons ]</ref>
+*The Delving of Frór - A new Monster Play PVE (and PVMP under certain circumstances) area was introduced: An expanse of caves and catacombs located beneath the Ettenmoors.
+*The Great Angmar Revamp - A revamp of the most high-level region of the game's current 9 PvE regions. The revamp included the reworking of many quests, areas and other changes, such as new horse routes.
+*Barbershop - You can customize the look of your avatar in-game with around 50 new haircuts and second set of details.
+*Updates to the Burglar, Guardian, and Champion classes.
+
+====Book 13: Doom of the Last-King====
+:{{Main|Doom of the Last-King}}
+The fifth free content update was released on April 24, 2008 in North America and on May 1, 2008 in Europe.
+
+Updates included ([http://lorebook.lotro.com/wiki/Release_Notes_Book_13_Official complete release notes]):
+*A new playable map area: the Ice Bay of [[Forochel]].
+*Players being able to see the ocean for the first time, confirmed as the Ice Bay of Forochel in recent developer chats.
+*Fishing - the first of a new system in ''Lord of the Rings Online'', called 'hobbies'.
+*New PVMP Monster Healing Class - Orc Defiler.
+*Looking For Fellowship- and Quest-panel improvements.
+
+====Book 14: The Ring-forges of Eregion====
+:{{Main|The Ring-forges of Eregion}}
+The sixth free content update was released on July 22, 2008 in North America.  It was released on July 24, 2008 in Europe.
+
+Updates included ([http://lorebook.lotro.com/wiki/Release_Notes_Book_14_Official complete release notes]):
+*Climax of the "Shadows of Angmar" storyline.
+*Added selected sections of [[Eregion]] (Region leading towards the Gates of Moria).
+*Epic Quest events that will allow interaction between players regardless of server.
+*Prelude quests for and leading up to the ''[[The Lord of the Rings Online: Mines of Moria|Mines of Moria]]'' expansion, which would have updates leading to Lothlórien, Fangorn, Rhovanion and Rohan.
+
+====Book 15: Daughter of Strife====
+:{{Main|Daughter of Strife}}
+The seventh free content update was released on November 18, 2008.  This update was released in tandem with the Mines of Moria expansion for players who did not purchase the expansion release.
+
+Updates included ([http://lorebook.lotro.com/wiki/Category:Epic_-_Vol._I,_Book_15:_Daughter_of_Strife_Quests Epic - Vol. I, Book 15: Daughter of Strife Quests epic]):
+*Conclusion of the "Shadows of Angmar" storyline.
+*Added the zone of Eregion expanding on the selected sections from Book 14.  The zone does not include the Hollin Gate leading to the Black Pool.
+*Added UI enhancements
+
+===Mines of Moria Expansion===
+<!--Move to expansion?-->:''Main article [[The Lord of the Rings Online: Mines of Moria]]''
+''[[The Lord of the Rings Online: Mines of Moria|Mines of Moria]]'' was released on [[18 November|November 18]], [[2008]]. It included Vol. II books 1 through 6 of the epic quest line. Like ''Shadows of Angmar'', ''Mines of Moria'' continued to regularly release updates.  Updates were less frequent than Shadows of Angmar. 
+
+====Book 7: Leaves of Lórien====
+[[File:The Lord of the Rings Online - Leaves of Lórien.png|thumb|300px]]Book 7 was released on [[17 March]] [[2009]].  This update included:
+* Continuation of the Epic Storyline in Book 7, [[Leaves of Lórien]].<ref name="book7">{{webcite|author=|articleurl=http://www.lotro.com/gameinfo/book-spotlights/342-vol2book7|articlename=Volume II: Book 7: Leaves of Lórien Spotlight|dated=|website=LOTRO|accessed=19 February 2012}}</ref>
+* Expansion of the Lothlórien Area, including [[Caras Galadhon]].<ref name="book7"/>
+* A new raid, named ''Strange Happenings'', has been added.<ref name="book7"/>
+* The [[Galadhrim]] are added as a new reputation faction.<ref name="book7"/>
+* Crafting instances enable players to gather resources.<ref name="book7"/>
+* The [[Ered Luin Introduction]] and, on lesser scale, the [[Bree-land Introduction]] are revamped.<ref name="book7"/>
+* Several new Monster Play emotes are added.<ref name="book7"/>
+
+====Book 8: Scourge of Khazad-dum====
+[[File:The Lord of the Rings Online - Scourge of Khazad-Dûm.png|thumb|300px]]Book 8 was released on June 23, 2009.  This update included:
+*Book 8, [[Scourge of Khazad-dûm]], continues the epic story.<ref name="book8">{{webcite|author=|articleurl=http://www.lotro.com/gameinfo/book-spotlights/421-vol2-book8|articlename=Volume II: Book 8: Scourge of Khazad-dûm|dated=|website=LOTRO|accessed=19 February 2012}}</ref>
+* A radiance-gated multi-boss, 12-man raid - named ''Dar Narbugud'' is added.<ref name="book8"/>
+* One 6-man instance is added: ''The Halls of Crafting''.<ref name="book8"/>
+* Two 3-man instances are added:
+** ''Lumul-nar''<ref name="book8"/>
+** ''Nala-dum''<ref name="book8"/>
+* Continuation of the revamp of the [[Bree-land Introduction]].<ref name="book8"/>
+* The Crafting system has been revived.<ref name="book8"/>
+
+===Siege of Mirkwood Expansion===
+<!--Move to expansion?-->:''Main article [[The Lord of the Rings Online: Siege of Mirkwood]]''
+''[[The Lord of the Rings Online: Siege of Mirkwood|Siege of Mirkwood]]'' was released on December 1, 2009 in North America and December 3, 2009 in Europe. Unlike the second expansion this edition was only available via a web-based download. It included Book 9 and the epilogue of Volume II: Mines of Moria. 
+
+Kate Paiz, Executive Producer for ''The Lord of the Rings Online'', released a letter on October 22, 2010 stating that updates will be more frequent but will not always be accompanied with a new book continuing the epic story.<ref>[http://www.lotro.com/gameinfo/devdiaries/866-producers-letter-october-2010 Producer's Letter, October-2010] lotro.com, Dev Diaries</ref>
+
+====Book 1: Oath of the Rangers====
+[[File:The Lord of the Rings Online - Oath of the Rangers.png|300px|thumb]]:''Main article [[Oath of the Rangers]]''
+Book 1 was released on [[1 March|March 1]], [[2010]].<ref> [http://forums.lotro.com/showthread.php?t=320404 Volume III: Allies of the King has arrived!]</ref>
+
+Updates include ([http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Allies_of_the_King_Official complete release notes]):
+* The beginning of Volume III in the epic storyline.
+* The ability to solo the Volume I epic storyline.
+* A duo mode for most skirmishes.
+
+====Book 2: Ride of the Grey Company====
+:''Main article [[Ride of the Grey Company]]''
+Book 2 was released on [[10 September|September 10]], [[2010]] in North America. ([[8 September|September 8]], [[2010]] for subscribers). It was delayed in Europe because of contractual reasons and was finally released on [[2 November]], almost two months after North America.<ref>[http://massively.joystiq.com/ Massively], [http://massively.joystiq.com/2010/10/29/v-e-me-day-lotro-europe-announces-launch-date-for-free-to-play/ V-E-ME Day: LotRO Europe announces launch date for free-to-play], dated [[29 October]], [[2010]] (accessed [[11 November]], [[2011]])</ref>
+
+Updates included ([http://lorebook.lotro.com/wiki/Release_Notes_Volume_3_Book_2_Official complete release notes]):
+
+* New region: [[Enedwaith]].
+* ''Lord of the Rings Online'' Free to Play subscription.
+* Book 2 in the Volume III epic storyline.
+* Scalable instances.
+* Improvements to the vault, and a new wardrobe system for cosmetic items.
+* Updates to the Captain class.
+* The LOTRO store, where players may purchase convenience items.  Points either earned through gameplay, through the VIP program or by being purchased.
+* The introduction of Lua Scripting.
+* DirectX 11 support.
+* Ranger session play.
+
+====Update 1: Journey to Winter-Home====
+[[File:The Lord of the Rings Online - Update 1 Journey to Winter-Home.png|300px|thumb]]The first post Free-to-play update was released in November 2010.  Due to changes to how updates work this did not contain an epic book.
+
+Updates included: 
+
+* A Barter Wallet for skirmish marks and anniversary tokens.
+* Opening of Moria, Lothlorien, Mirkwood and Enedwaith to free-to-play players. Volume II and Volume III will also be available, as well the legendary item system, and the level 65 level cap all to free-to-play players.
+* Vault improvements.
+* Tasks: a new quest type for all levels.
+* Improved reputation mounts.
+* Updates to the Lore-master and Rune-keeper classes.
+* Ered Luin starting area revamp.
+
+====Update 2: Echoes of the Dead====
+[[File:The Lord of the Rings Online - Update 2 Echoes of the Dead.png|300px|thumb]]The first update of 2011 was released on [[21 March|March 21]] in the United States and [[24 March|March 24]] for Europe.
+
+Updates included:
+
+* Two 3-man's, two 6-man's, and a 12-person raid were added for level 65 players.
+* A special item required to craft a First Age weapon which drops from the above raid.
+* Radiance was removed.
+* Legendary Items were updated.
+* Character panel and cosmetic system were revamped.
+* The Minstrel, Hunter and Burglar classes were updated.
+* Volume III Book 3: [[Echoes of the Dead]] was added.
+* Volume II was revamped and made soloable, including three instances which have been converted to skirmishes.
+* Improvements to the PvP starter tutorial.
+* [[Evendim]] was revamped, with  [[Annúminas]] being scaled down to level 40.
+
+====Update 3: Lost Legends of Eriador====
+[[File:The Lord of the Rings Online - Update 3 Lost Legends of Eriador.png|300px|thumb]]''Lost Legends of Eriador'' was the third update. It was released on [[23 May|May 23]], [[2011]] and included:  ([http://lorebook.lotro.com/wiki/Update_3,_Lost_Legends_of_Eriador,_Official complete release notes]):
+
+* Two new 3-man scalable instances starting mid-game.
+* Two new skirmishes.
+
+===Rise of Isengard Expansion===
+<!--Move to expansion?-->:''Main article [[The Lord of the Rings Online: Rise of Isengard]]''
+The third expansion for ''The Lord of the Rings Online'' is entitled ''Rise of Isengard''. The expansion was made available on September 27, 2011 and only as a digital download.<ref>[http://isengard.lotro.com/ The Lord of the Rings Online: Rise of Isengard Official Homepage]</ref>
+
+====Update 5: Armies of Isengard====
+[[File:The Lord of the Rings Online - Update 5 Armies of Isengard.png|220px|thumb]]''Armies of Isengard'' was the first update published after the release of ''The Lord of the Rings Online: Rise of Isengard''. It was released on [[12 December]] [[2011]] and included ([http://lorebook.lotro.com/wiki/Update_5,_Armies_of_Isengard,_Official complete release notes]):
+
+* Four new instances and a 12-man raid in and around [[Isengard]].
+* [[The Prince of Rohan|Book 5]] of [[Allies of the King|Volume III]] is released.
+* A new Instance finder, to form groups more easily.
+* Barter currencies of skirmishes, classic and instances are unified.
+* Changes to Reputation items.
+
+====Update 6: Shores of the Great River====
+[[File:The Lord of the Rings Online - Update 6 The Great River.png|220px|thumb]]''Shores of the Great River'' is the sixth update and was released on [[12 March]] [[2012]].<ref name="Update6&Riders"> {{webcite|author=Justin Olivetti|articleurl=http://massively.joystiq.com/2012/01/25/riding-into-rohan-lotro-maps-out-2012/|articlename=Riding into Rohan: LotRO maps out in 2012|dated=25 January 2012|website=Massively|accessed=29 January 2012}}</ref><ref name="Update6">{{webcite|author=|articleurl=http://www.lotro.com/gameinfo/game-manual/1775-update-6-great-river|articlename=Update 6 Great River|dated=|website=LOTRO|accessed=19 February 2012}}</ref>
+
+*A new region, the [[Anduin|The Great River]], was added, featuring seven new areas - including [[Parth Celebrant]] - in the upper [[Anduin]]. <ref name="Update6"/>
+*[[Mists of Anduin]], Book 6 of Volume III, was released, in which the player seeks the wisdom of [[Galadriel]] about troubling dreams and fights [[Easterlings]], Brigands and an ancient enemy of Rohan.<ref name="Update6"/>
+*The ability to summon skirmish warriors outside skirmishes.<ref name="Update6"/>
+*Updates to the Instance finder.<ref name="Update6"/>
+*Currency-change in Monster Play: "Destiny" will be replaced with "Commendations". Commendations will be available for both Freeps and Creeps.<ref name="MP Currency change">{{webcite|author=Jaret Pruett|articleurl=http://www.lotro.com/gameinfo/devdiaries/1776-update-6-commendations-developer-diary|articlename=http://www.lotro.com/gameinfo/devdiaries/1776-update-6-commendations-developer-diary|dated=|website=LOTRO|accessed=19 February 2012}}</ref>
+
+====Update 7: Shades of the Past====
+[[File:The Lord of the Rings Online - Update 7 Shades of the Past.png|thumb|220px]]''Shades of the Past'' is the seventh update<ref name="Update 7">{{webcite|author=|articleurl=http://www.lotro.com/gameinfo/1966|articlename=Update 7|dated=|website=LOTRO|accessed=12 May 2012}}</ref> and was released on 14 May, 2012.{{fact}}
+
+*Continuation of the aforementioned currency-change.<ref name="MP Currency change"/>
+*A new skirmish, "Storm on Methedras".<ref name="Update 7"/>
+*Revamp of the Fornost instance and Moria region.<ref name="Update 7"/>
+
+===Riders of Rohan Expansion===
+:''Main article [[The Lord of the Rings Online: Riders of Rohan]]''
+The fourth expansion for ''The Lord of the Rings Online'' is named ''Riders of Rohan''. The expansion was released on October 15, 2012. <ref name="Turbine">{{webcite|author=|articleurl=http://www.lotro.com/news/pressreleases/1736-warner-bros-interactive-entertainment-and-turbine-unveil-the-lord-of-the-rings-online-riders-of-rohan|articlename=WARNER BROS. INTERACTIVE ENTERTAINMENT AND TURBINE UNVEIL THE LORD OF THE RINGS ONLINE™: RIDERS OF ROHAN™|dated=|website=LOTRO|accessed=30 January 2012}}</ref>
+
+====Update 9: Against the Shadow====
+''Against the Shadow'' is the ninth update and was released December 17, 2012. <ref name="Update 9">{{webcite|author=|articleurl=http://www.tentonhammer.com/lotro/news/lotro-update-9-coming-december-17th|articlename=LOTROs Update 9 Coming December 17th|dated=|website=www.tentonhammer.com|accessed=27 July 2015}}</ref>
+
+*Three new three man instances.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-9-riders-rohan-instance-cluster-part-i|articlename=Riders of Rohan Instance Cluster, Part I|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Scaling of Dol Guldur instances.
+*Completion of Moria revamp.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-9-revisiting-mines-moria-part-ii|articlename=Developer Diary: Revisiting the Mines of Moria, Part II|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Ability to quickly travel to turn in quests.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-9-travel-quest-location-behind-scenes|articlename=Update 9 - Travel To Quest Location: Behind the Scenes|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Update to the Yule Festival.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-9-yule-festival|articlename=Update 9 - Yule Festival|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Combat revisions.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-9-combat-revisions|articlename=Update 9 - Combat Revisions|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+====Update 10: Against the Shadow, Part II====
+''Against the Shadow, Part II'' is the tenth update and was released March 6, 2013.
+
+*One six man instance and three twelve man raids.<ref name="Update 10">{{webcite|author=|articleurl=https://www.lotro.com/en/game/articles/update-10-instance-cluster-developer-diary|articlename=Update 10 - Instance Cluster Developer Diary|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*In Their Absence instance scaling.<ref name="Update 10"/>
+*Mithril Coins, a new currency used for special services.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-10-mithril-coin-qa|articlename=Update 10 Mithril Coin Q&A|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Agility made Wardens' primary stat.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-10-warden-stat-change-agility-wardens|articlename=Update 10: Warden Stat Change – Agility Wardens!|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Changes to critical defense.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-10-critical-defence-revision|articlename=Update 10 - Critical Defence Revision|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Unification of currency for scaling instances.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/update-10-seals-and-medallion-conversion|articlename=Update 10 - Seals and Medallion Conversion Diary|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+====Update 11: Treachery of the White Hand====
+''Treachery of the White Hand'' is the eleventh update and was released May 13, 2013. <ref name="Update 11">{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?511377-Update-11-Treachery-of-the-White-Hand-Release-Notes-Official|articlename=Update 11: Treachery of the White Hand Release Notes - Official|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+*A new region, Wildermore, located on the previously-inaccessible plateau in the north of East Rohan.<ref name="Update 11"/>
+*[[Snows of Wildermore|Book 10]] of [[Allies of the King|Volume III]] is released.<ref name="Update 11"/>
+*Updates to mounted combat.<ref name="Update 11"/>
+*Hobbit presents, daily free random items with the ability to unlock more rolls with mithril coins.<ref name="Update 11"/>
+*Lalia's Market, a shop where cosmetic clothing and dyes can be purchased with mithril coins.<ref>{{webcite|author=|articleurl=http://www.lotro.com/en/game/articles/lalias-market|articlename=Lalia’s Market Now Open in Bree-town!|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+===Helm's Deep Expansion===
+:''Main article [[The Lord of the Rings Online: Helm's Deep]]''
+The fourth expansion for ''The Lord of the Rings Online'' is named ''Helm's Deep''. The expansion was released on November 20, 2013. <ref name="TenTonHammer">{{webcite|author=|articleurl=https://www.tentonhammer.com/lotro/news/turbine-temporarily-delays-lotro-helms-deep-launch|articlename=Updated: Turbine Temporarily Delays LOTROs Helms Deep Launch|dated=|website=www.tentonhammer.com|accessed=27 July 2015}}</ref> After the Helm's Deep expansion, Turbine has discontinued for three years paid expansions in favor of quarterly updates with content free to VIPs. <ref name="Looking Ahead to 2014">{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?535422-A-letter-from-Executive-Producer-Kate-Paiz-Looking-Ahead-to-2014|articlename=A letter from Executive Producer Kate Paiz - Looking Ahead to 2014|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+====Update 13: The Breaking of Isengard====
+''The Breaking of Isengard'' is the thirteenth update and was released April 14, 2014. <ref name="Update 13">{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?546315-Update-13-The-Breaking-of-Isengard-%E2%80%93-Official-release-Notes|articlename=Update 13: The Breaking of Isengard – Official release Notes|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+*Release of a new landscape consisting of post-[[Battle of Isengard]] Nan Curunir as well as the Entwood<ref name="Update 13"/>, an area consisting of the south-western part of Fangorn.
+*The fourteenth and final book of [[Allies of the King|Epic Volume III: Allies of the King]], [[The Waters of Isengard]].<ref>{{webcite|author=|articleurl=https://www.lotro.com/en/game/articles/dev-diary-%E2%80%93-update-13-quest-notes|articlename=Dev Diary – Update 13 Quest Notes|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*Misty Mountains, North Downs and Trollshaws region revamps.<ref name="Update 13"/>
+*Resizable inventory bags.<ref name="Update 13"/>
+*Level scaling from level 20 up for players in the Ettenmoors and temporary Ettenmoors passes for free-to-play purchasable with Mithril Coins.<ref name="Update 13"/>
+
+====Update 14: Paths of the Dead====
+''Paths of the Dead'' is the fourteenth update and was released July 14, 2014. <ref name="Update 14">{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?552272-Update-14-Paths-of-the-Dead-Release-Notes-amp-Known-Issues|articlename=Update 14: Paths of the Dead - Release Notes & Known Issues |dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+*Release of the West Gondor region, consisting of the areas the [[Paths of the Dead]], the [[Blackroot Vale]], [[Lamedon]], the Havens of [[Belfalas]], and [[Dol Amroth]]. <ref name="Update 14"/><ref>{{webcite|author=|articleurl=http://www.lotro.com/en/u14|articlename=Update 14: Paths of the Dead Now Available|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+*A new Epic series,<ref name="Update 14"/> [[The Strength of Sauron|Volume IV: The Strength of Sauron]], beginning with [[The Road to Gondor|Book 1: The Road to Gondor]].
+*The Essence System, allowing specially slotted armors to be fitted with a variety of Essences for customizable stats.<ref name="Update 14"/>.
+*Level cap increase to 100.<ref name="Update 14"/>
+*The [[Dead Marshes]] region was added later in the minor Update 14.2, released September 15 2014. This area included a Session Play featuring Frodo, Samwise, and Gollum's passage through the marshes, casting the player character as Sam.<ref>{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?555920-Update-14-2-Release-Notes|articlename=Update 14.2 Release Notes|dated=|website=LOTRO|accessed=28 July 2015}}</ref>
+
+====Update 15: Gondor Aflame====
+''Gondor Aflame''<ref name="U15 Announcement">{{webcite|author=|articleurl=http://www.lotro.com/en/u15|articlename=Update 15: Gondor Aflame Now Available|dated=|website=LOTRO|accessed=27 July 2015}}</ref> is the fifteeth update and was released November 4, 2014. <ref name="Update 15">{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?558300-Update-15-Release-Notes|articlename=Update 15 Release Notes|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+*The region of Central Gondor, consisting of [[Ringló Vale]], [[Dor-en-Ernil]], [[Lebennin]] and [[Pelargir]].<ref name="U15 Announcement"/><ref name="Update 15"/>
+*Beorning race and class.<ref name="U15 Announcement"/><ref name="Update 15"/>
+*Epic Volume IV [[The Dawnless Day (The Lord of the Rings Online)|Book 2: The Dawnless Day]].<ref name="Update 15"/>
+*A new Epic Battle, Retaking Pelargir.<ref name="Update 15"/> Initially only available in solo/duo mode, a full fellowship version was released in February 4, 2015 with Update 15.2.<ref name="Update 15.2">{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?&postid=7312886|articlename=Update 15.2 Release Notes|dated=|website=LOTRO|accessed=28 July 2015}}</ref>
+*Roving Threats, a new type of open landscape group content.<ref name="Update 15"/> Additional Roving Threats were added to other regions of the game beginning with Update 15.2<ref name="Update 15.2"/>
+
+====Update 16: Ashes of Osgiliath====
+''Ashes of Osgiliath'' is the sixteenth update and was released May 1, 2015.<ref name="Update 16">{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?568045-Update-16-Ashes-of-Osgiliath-%E2%80%93-Official-Release-Notes|articlename=Update 16: Ashes of Osgiliath – Official Release Notes|dated=|website=LOTRO|accessed=27 July 2015}}</ref>
+
+*The region of Eastern Gondor, consisting of Upper Lebennin, Lossarnach, South Ithilien and Osgiliath.<ref name="Update 16"/>
+*Epic Volume IV [[Voices of the Past|Book 3: Voices of the Past]].<ref name="Update 16"/>
+*Cosmetic weapons and shields, more Roving Threats, and new PvMP map set in Osgiliath were released with Update 16.2 in July 17, 2015. A new quest series of weekly episodic content, following the adventures of the Hobbit Bingo Boffin, was begun the Wednesday after the update, on July 22.<ref>{{webcite|author=|articleurl=https://www.lotro.com/forums/showthread.php?572512-Update-16-2-Release-Notes&p=7404279#post7404279|articlename=Update 16.2 Release Notes|dated=|website=LOTRO|accessed=28 July 2015}}</ref>
+
+====Update 17: The Siege of Minas Tirith====
+''The Siege of Minas Tirith'' is the seventeenth update and was released 27 October 2015.
+
+*The region of Old Anórien, including [[Minas Tirith]], the [[Pelennor Fields]], and Talath Anor.
+*Epic Volume IV [[Siege of the White City|Book 4: Siege of the White City]]
+*New crafting tier, hidden cosmetic weapon toggle.
+*New Epic Battles: Defence of Minas Tirith, Hammer of the Underworld.
+
+====Update 18: The Battle of Pelennor Fields====
+''The Battle of Pelennor fields'' is the eighteenth update and was released 11 April 2016.
+
+*The region of Far Anórien, including [[Drúadan Forest|Taur Drúadan]], [[Warning beacons of Gondor|Beacon hills]], and the Pelennor Fields during the battle.
+*Instance cluster including two 3-man instances (The Quays of the Harlond, The Blood of the Black Serpent), one 6-man instance (The Silent Street) and a 12-man raid (Throne of the Dread Terror).
+*Epic Volume IV [[The Ride of the Rohirrim|Book 5: The Ride of the Rohirrim]] and [[The Battle of Pelennor Fields|Book 6: The Battle of Pelennor Fields]].
+
+====Update 19: March of the King====
+''March of the King'' is the nineteenth update and was released 14 October 2016.
+
+*The region March of the King, including [[North Ithilien]], after battle Minas Tirith, after battle Osgiliath, and after battle Pelennor Fields.
+*Flora barter system to exchange new gear for flowers.
+*Epic Volume IV [[March of the King|Book 7: March of the King]].
+
+====Update 20: Battle of the Black Gate====
+''Battle of the Black Gate'' is the twentieth update and was released 21 March 2017.
+
+*The region The Wastes, including Noman-lands, [[Slag-hills]] and [[Dagorlad]] which surround the [[Black Gate]].
+*New reputation items to exchange for armour.
+*Epic Volume IV [[Battle of the Black Gate|Book 8: Battle of the Black Gate]].
+
+===Mordor Expansion===
+''Mordor'' is the sixth expansion, and the twenty-first update, released on August 2nd, 2017.
+
+*The region Plateau of [[Gorgoroth]] includes five different areas, [[Udûn]], Dor Amarth, Lhingris, Talath Urui, and Agarnaith.
+*The conclusion of the Epic Questline (and Volume 4), with Book 9.
+*A new series of quests, the "Black Book of Mordor", becomes the main storyline after the conclusion of the Epic Quests. There are four chapters introduced in this update.
+*The Allegiance System is introduced, players can pledge to one of four factions to gain greater rewards in [[Mordor]]. They are the Kingdom of [[Gondor]], the Court of [[Lothlórien]], [[Durin's Folk]], and the Hobbits of the Company.
+*A new instance cluster is introduced, featuring a 3-man instance (The Court of Seregost), a 6-man instance (The Dungeons  of Naerband), and a 12-man raid (The Abyss of Mordath).
+
+===Update 22: Legacy of the Necromancer===
+''Legacy of the Necromancer'' is the twenty-second update, released on March 6th, 2018.
+
+*The new region "[[Eryn Lasgalen]] and the Dale-lands" (otherwise known as the "Strongholds of the North" or "Northern Mirkwood"), features the Forest of Eryn Lasgalen (including the [[Halls of the Elven-king]] (known as Felegoth), The Dale-lands (featuring iconic locations such as The [[Long Lake]], [[Lake-town]], [[Dale]], and [[Ravenhill]]), and [[Erebor]], the Lonely Mountain.
+*Three new reputation factions are introduced; the "Elves of Felegoth", the "Men of Dale", and the "Dwarves of Erebor".
+*The Black Book of Mordor continues with two new chapters exploring the new region.
+
+===Update 23: Where Dragons Dwell===
+''Where Dragons Dwell'' is the twenty-third update, released on October 9th, 2018.
+
+*The new area "The Dwarf-holds", consists of two areas; The [[Iron Hills]], and [[Ered Mithrin]]. An expanded area of [[Erebor]] is also opened.
+*A new instance cluster is introduced, featuring two 3-man instances (Caverns of Thrumfall and Glimmerdeep), a six-man instance (Thikil-gundu), and a 12-man raid (The Anvil of Winterstith).
+*The Black Book of Mordor continues with two new chapters exploring the new areas.
+
+==Added Elements==
+There are a number of elements that do not appear in any of the published works. This includes characters, lineages, objects and locations.
+
+===Characters===
+* '''[[Amarthiel]]''' served the [[Witch-king]] of [[Angmar]] during his first reign over [[Angmar]]<ref>In the game the Witch-king reigned over Angmar again shortly before the [[War of the Ring]].</ref> and wore the [[lesser rings|lesser ring]] [[Narchuil]]. She was slain by [[Narmeleth]] at the [[Battle of Fornost]] and her soul wandered [[Middle-earth]] for over a thousand years. She managed to possess Narmeleth and disguised herself as Sara Oakheart. She eventually revealed herself after the defeat of [[Mordirith]] by [[Golodir]] and becomes the Regent of Angmar.
+
+
+* '''[[Andraste]]''' was a female [[Men|Man]] who served the [[Witch-king]].
+
+* '''[[Jon Brackenbrook]]''' was a [[Men|Man]] who was captain of [[Archet]].
+
+* '''[[Ronald Dwale]]''' was a [[Hobbits|Hobbit]] from [[Dwalling]]. He was an author and a member of [[The Inklings (LOTRO)|the Inklings]], that meets in the [[Bird and Baby Inn]]. He was based on [[J.R.R. Tolkien]] himself.
+
+* '''[[Éogan]]''' was the second in command of the [[Blackwolds]] and took over leadership of the group after William Skunkwood's death.
+
+* '''The Huntsman''' was a spirit found in [[Enedwaith]] who took the shape of a large man with horns of a stag. Many players thought this was [[Oromë]]. The developers confirmed that it wasn't Oromë but a [[Maiar|Maia]] of Oromë.<ref>[http://forums.lotro.com/showthread.php?359604-big-D-small-d&p=4996860&highlight=#post4996860 big D, small d] [[Jonathan Rudder]], lotro.com forums</ref>
+
+* '''[[Ivar the Bloodhand]]''' was a Gaunt-lord from the [[First Age]].
+
+* '''[[Mordirith]]''' was the Steward of Angmar.
+
+* '''[[Narmeleth]]''' was an elf maiden of [[Rivendell]] and daughter of [[Laerdan]]. She slew [[Amarthiel]] during the [[Battle of Fornost]] and became possessed by her soul over a thousand years later. 
+
+* '''[[Mundo Sackville-Baggins]]''' was a [[Hobbits|Hobbit]] who was mistakenly identified as having the ring. 
+
+* '''[[William Skunkwood]]''' was the leader of the [[Blackwolds]].
+
+* '''[[Skorgrím]]''' was a dwarf and leader of the [[Dourhands]]. He was slain during the Battle of Edhelion. His corpse was used as a vehicle by Ivar the Bloodhand who possessed it with a fell spirit to trick the Dourhands to ally themselves with the forces of [[Angmar]].
+
+* '''[[Sambrog]]''' was the Wight-lord of the [[Barrow-downs]].
+
+===Groups===
+* '''The [[Blackwolds]]''' were a group of [[Men|Mannish]] brigands from [[Bree-land]].
+
+* '''The [[Dourhands]]''' was a clan of dwarves aligned with the forces of [[Angmar]]. They were the dwarves that stayed behind to rebuild the Dwarven Halls in the [[Blue Mountains]] which were destroyed during the [[War of Wrath]].
+
+* '''The [[Inklings (Shadows of Angmar)|Inklings]]''' are a group of [[Hobbits|Hobbit]]-authors who discuss literature. They meet each other in the [[Bird and Baby Inn]]. Prominent members are [[Ronald Dwale]] ([[J.R.R. Tolkien]]), [[Owen Farfield]] ([[Owen Barfield]]), [[Carlo Williams]] ([[Charles Williams]]) and [[Jack Lewisdown]] ([[C.S. Lewis]]). The group and members are based on the real [[Inklings]]
+
+===Objects===
+* '''[[Narchuil]]''' was one of the [[lesser rings]] forged by the elven-smiths during the [[Second Age]].
+
+===Locations===
+* '''[[Agamaur]]''' was a vast swamp of the [[Lone-lands]]. It was a site of a major battle between [[Arthedain]], [[Cardolan]] and [[Rhudaur]]. To the west were the ruins of Ost Guruth, a fortress of [[Arnor]] claimed by the nomadic Eglain. To the east lay the ruins of Garth Agarwen, a fortress of Rhudaur ruled by [[Hill-men]] loyal to the mysterious Red Maid.
+
+* '''[[Esteldin]]''' was a ruin of Arnor in the [[North Downs]]. At the time of the [[War of the Ring]], it was used as a base of operations by the [[Rangers of the North]].
+
+*'''[[Falathlorn]]''' was a green and beautiful region of the [[Ered Luin]] favored by the Elves. It contained the Elvish havens of Duillond and Celondim. Not far from this region were the chilly Low-lands, site of the Dwarvish cities Gondamon and Kheledul.
+
+*'''[[Galtrev]]''' was one of the largest towns of [[Dunland]], the nominal capitol of the country.
+
+*'''[[Maur Tulhau]]''' was a [[Stoors|Stoorish]] Hobbit village in [[Enedwaith]] located in the forbidding Gloomgens. It was an remnant of the time when the Stoors lived in this region before most of their number moved north to [[The Shire]].
+
+* '''[[Othrongroth]]''' was the oldest and largest Edain mound in the [[Barrow-downs]].
+
+*'''[[Stangard]]''' was a [[Rohirrim]] settlement near the Great River [[Anduin]]. Its inhabitants were mostly exiles sent to protect [[Rohan]]'s outer borders.
+
+* '''[[Tinnudir]]''' was an island in [[Lake Evendim]]. It was used as a headquarters by a group of Rangers called the Wardens of [[Annúminas]], protectors of the ancient capitol of Arnor.
+
+===Structures===
+* '''[[Bird and Baby Inn]]''' was an inn in [[Michel Delving]].
+
+==Servers==
+===American servers===
+All American servers are hosted by [[Turbine]].
+*[[Arkenstone]]
+*[[Moria|Dwarrowdelf]]
+*[[Gladden River|Gladden]]
+*[[Meneldor]]
+*[[Celebrant|Silverlode]]
+*[[Brandywine]]
+*[[Elendilmir]]
+*[[Rivendell|Imladris]]
+*[[Nimrodel]]
+*[[Landroval]]
+*[[Rohan|Riddermark]]
+*[[Windfola]]
+
+===European servers===
+The European servers were originally created and hosted by [[Codemasters]], but on [[1 June]] [[2011]] Lotro Europe was taken over by Turbine, who currently host the European servers.<ref>{{webcite|author=|articleurl=http://www.casualstrolltomordor.com/2011/04/turbines-lotro-service-goes-global/|articlename=Turbine's LOTRO Service Goes Global|dated=24 April 2011|website=A Casual Stroll to Mordor|accessed=2 January 2012}}</ref>
+
+==License==
+<!--Add info about Gandalf-Thorin meeting and Khamûl/Lieutenant of Dol Guldur-->
+For ''The Lord of the Rings Online'', [[Turbine]] has licensed the rights to the content and lore of ''[[The Hobbit]]'' and ''[[The Lord of the Rings]]''. Turbine does not have license rights to the [[New Line Cinema]] film trilogy nor ''[[The Silmarillion]]'', ''[[Unfinished Tales]]'', ''[[The History of Middle-earth]]'' books or ''[[The Children of Húrin]]''.
+
+==Discrepancies from the source material==
+<!--Info about "Big T" and "Little T"-->''The Lord of the Rings Online'' does not follow the story as told in ''[[The Lord of the Rings]]'', but rather tells stories about events that happened during the same time period as the events told in J.R.R. Tolkien's book
+
+==Reception==
+<!--More info of post-2007-->''The Lord of the Rings Online'' has been received very positively thus far, as reviews continue to appear since the game's initial release.<ref>[http://www.metacritic.com/games/platforms/pc/middleearthonline Lord of the Rings Online: Shadows of Angmar, The - Review] metacritic.com</ref>
+
+GameDaily awarded the game 9/10, praising its rich, fantasy-themed universe, well-integrated trait and title system, and a story that remains true to the works of Tolkien. Yahoo! Video Games wrote a review with few negative mentions, awarding the game a score of 4/5,<ref>[http://videogames.yahoo.com/gamereview?cid=1990963744&tab=reviews&page=0&eid=513259 The Lord of the Rings Online: Shadows of Angmar Review] Yahoo! Games</ref> while ''Computer and Video Games'' called the game an essential purchase for ''Lord of the Rings'' fans, scoring the game a 9.2/10.<ref>[http://www.computerandvideogames.com/article.php?id=161846&skip=yes PC Review: Lord of the Rings Online: Shadows of Angmar] ''Computer and Video Games''</ref> Eurogamer scored the game a 9.0/10, calling it tough to resist.<ref>[http://www.eurogamer.net/article.php?article_id=75657 Review - Lord of the Rings Online: Shadows of Angmar] Eurogamer</ref> Gamespy gave it 4.5/5 stars, claiming the game "opened up Middle-Earth to the masses" but commented negatively on its weak PvP content,<ref>[http://pc.gamespy.com/pc/lord-of-the-rings-online-shadows-of-angmar/785884p1.html The Lord of the Rings Online: Shadows of Angmar Review] GameSpy</ref> while GameTrailers awarded it 8.5/10,<ref>[http://www.gametrailers.com/gamepage.php?id=754 The Lord of the Rings Online: Shadows of Angmar] Game Trailers</ref> citing its interesting tweaks to the MMO genre. IGN.com ranked it a similar 8.6/10, praising it for its solid experience, though criticizing it for its lack of major improvements to the genre.<ref>[http://pc.ign.com/articles/787/787942p3.html The Lord of the Rings Online: Shadows of Angmar Review] IGN</ref> GamerNode.com awarded the game an 8.8/10, calling it the best MMO launch experience since ''Ultima Online''.<ref>[http://www.gamernode.com/PC/Reviews/2848-Lord-of-the-Rings-Online-Review/index.html Lord of the Rings Online] GamerNode</ref> The ''New York Times'' called the game "a major achievement of interactive storytelling, the first game truly worthy of the ‘Lord of the Rings' franchise and a must-play for just about anyone with an interest in Tolkien or the future of online entertainment."<ref>[http://lotro.turbine.com/article/356 Lord of the Rings Online Press Release] Lord of the Rings Online</ref> In a GameSpot review, the product was awarded an 8.3/10, praising its appealing polish and intriguing Monster Play feature.<ref>[http://www.gamespot.com/pc/rpg/middleearthonline/review.html?om_act=convert&om_clk=topten&tag=topten;all;score;5 The Lord of the Rings Online: Shadows of Angmar for PC Review] GameSpot</ref> Gamepro.com's review gave it an overall 4.25/5, pointing out how engaging the epic quests are, as well as how faithful to the novels the game managed to stay.<ref>[http://gamepro.com/computer/pc/games/reviews/112000.shtml Review: The Lord of the Rings Online: Shadows of Angmar for PC] Gamepro</ref> GameSpy declared ''The Lord of the Rings Online'' 'Game of the Month' for May 2007.<ref>[http://uk.gamespy.com/articles/795/795353p2.html Game of the Month: May 2007] GameSpy</ref>
+
+==Awards==
+
+In August 2007, Codemasters announced that ''The Lord of the Rings Online'' had received five Golden Joystick Awards nominations for the five applicable categories for the game,<ref>[http://newsrss.bbc.co.uk/1/hi/technology/6925679.stm Music and vice top games awards] BBC News</ref> and in October 2007 that it had won the "PC Game of the Year" at these awards.<ref>[http://www.next-gen.biz/index.php?option=com_content&task=view&id=7693&Itemid=2 Gears Wins Big at Game Awards] Next-Generation</ref> and again won the same award on October 2008. In December 2007, GameSpy awarded ''The Lord of the Rings Online'' 6th place in the top 10 PC games of 2007.<ref>[http://goty.gamespy.com/2007/pc/6.html GameSpy's Game of the Year 2007] GameSpy</ref> On December 18, Turbine announced it had also won the GameSpy MMO of the Year award.<ref>[http://www.lotro.com/article/476 LOTRO Wins Top Honors from Gamespy!] Lord of the Rings Online</ref> In January 2009, mmorpg.com awarded Turbine both MMORPG studio of the year 2008<ref>[http://www.mmorpg.com/gamelist.cfm/game/45/feature/2574/Best-MMO-Studio-of-2008-Winner MMORPG.com Best MMO Studo of 2008] mmorpg.com</ref>, and MMO Expansion of the Year for ''Mines of Moria''.<ref>[http://www.mmorpg.com/gamelist.cfm/game/45/feature/2579 MMORPG.com Best Expansion of 2008] mmorpg.com</ref>
+
+==Subscription Model==
+<!--More on F2P-->[[File:The Lord of the Rings Online - Free to Play.png|300px|thumb]]
+In North America, players who pre-ordered the game were offered a special founder's offer, a lifetime subscription for $199 or reduced cost of $9.99 per month. Standard monthly fee is $14.99 with three, six, twelve month, and lifetime discounts available. European players had a similar program from Codemasters. 
+
+A Holiday subscription was available in December of 2007 and January of 2008 for $9.99/month for a 3 month commitment. A one year anniversary addition includes a $9.99/month subscription or a $199.99 Lifetime subscription, which was again offered during the lead up to the release of Mines of Moria.
+ 
+Warner Bros. announced on June 4, 2010 that Lord of the Rings Online will offer a free-to-play model starting in the fall of 2010.<ref>[http://turbine.com/news/105-warner-bros-interactive-entertainment-announces-the-lord-of-the-rings-online-to-adopt-global-free-to-play-model.html Warner Bros. Interactive Entertainment Announces The Lord of the Rings Online™ to Adopt Global Free-to-Play Model] Turbine, Inc</ref>  On August 18, 2010, Warner Bros. announced that the free-to-play model would go live on September 10, 2010. On October 21, 2010, [[Codemasters]] announced that a preview of Free-to-Play would be available in Europe on October 25, 2010.<ref>[http://community.lotro-europe.com/news.php?id=10839&pagename=news&type=news The Lord of the Rings Online Europe Preview Event]</ref>
+
+==External Links==
+* '''[http://lotro.com Official website]'''
+** '''[http://forums.lotro.com/ LOTRO Community Website]''' , the official ''Lord of the Rings Online'' forums
+
+{{notes}}
+{{references}}
+
+{{lotro}}
+{{Videogames}}
+{{title|italics}}
+{{DEFAULTSORT:Lord of the Rings Online}}
+[[Category:The Lord of the Rings Online| ]]
+[[Category:Open world games]]
+[[Category:Role playing games]]
+[[Category:Turbine games]]

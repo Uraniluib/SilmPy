@@ -1,0 +1,82 @@
+{{Sources}}
+
+The name given to the calendar system used in [[Númenor]] throughout the [[Second Age]], and in [[Gondor]] and [[Arnor]] throughout much of the [[Third Age]]. It divided the year into twelve months (properly called [[astar]]), and included three days that did not belong to any month: [[yestarë]], [[loëndë]] and [[mettarë]]. The King's Reckoning lasted until the loss of [[Eärnur]] the last [[Kings of Gondor|King of Gondor]]. It was revised by [[Mardil|Mardil Voronwë]], the first [[Ruling Steward]], who replaced it with the system known as the [[Stewards' Reckoning]].<ref name="D2">{{App|D2}}</ref>
+
+==Structure==
+The year was divided into twelve months, with three days outside the months. These divisions are given in the table below.
+
+{|class="TGtable"
+|- 
+!Month number
+!Quenya
+!Sindarin
+!Length
+!English translation
+!Relationship to the [[Shire Calendar]]<ref group=note>Based on the statement in [[Appendix D]] that the day of the destruction of the [[One Ring]], Shire [[25 March]] in {{TA|3019}}, "was, however, March 25 in both Kings' and Stewards' Reckoning." This may only apply around the end of the Third Age, since it is unknown if the [[Shire Calendar]] incorporated the Kings' Reckoning 2-day "millennial additions" or any of the [[Stewards' Reckoning]] additional adjustments.</ref>
+|-
+|&nbsp;||[[Yestarë]]|| || 1 || First day || [[2 Yule]]
+|-
+|1||[[Narvinyë]]||Narwain|| 30 ||New sun || [[Afteryule]]
+|-
+|2||[[Nénimë]] || Nínui || 30 ||Watery || [[Solmath]]
+|-
+|3||[[Súlimë]] || Gwaeron || 30 || Windy / wind month<ref name="Silm_sul">{{HM|S}}, Appendix, s.v. ''sul''</ref> || [[Rethe]]
+|-
+|4||[[Víressë]] || Gwirith || 30 || New / young / budding? || [[Astron]]
+|-
+|5||[[Lótessë]] || Lothron || 30 || Flower month || [[Thrimidge]]
+|-
+|6 || [[Nárië]] || Nórui || 31 || Sunny || 1 [[Forelithe]] through [[Lithedays|1 Lithe]]
+|-
+|&nbsp;||[[Loëndë]]/[[Enderi]]|| || 1/2 || Year-middle (Middle days) || [[Mid-year's Day]]/[[Overlithe]]
+|-
+|7||[[Cermië]] || Cerveth || 31 ||Cutting? || [[Lithedays|2 Lithe]] through 30 [[Afterlithe]]
+|-
+|8||[[Úrimë]] || Urui || 30 ||Hot<ref name="Silm_ur">{{HM|S}}, Appendix, s.v. ''ur''</ref> || [[Wedmath]]
+|-
+|9||[[Yavannië]] || Ivanneth || 30 || Fruit giving || [[Halimath]]
+|-
+|10||[[Narquelië]] || Narbeleth || 30 || Sun-fading || [[Winterfilth]]
+|-
+|11||[[Hísimë]] || Hithui || 30 || Misty<ref name="Silm_hith">{{HM|S}}, Appendix, s.v. ''hith''</ref> || [[Blotmath]]
+|-
+|12||[[Ringarë]] || Girithron || 30 || Cold / shivering month || [[Foreyule]]
+|-
+|&nbsp;||[[Mettarë]]|| || 1 || Last day || [[1 Yule]]
+|}
+
+In leap years, [[loëndë]] was replaced with two [[enderi]]; this occurred in years divisible by 4 but not by 100 (''[[haranyë]]''), resulting in a 366-day year, similar to modern [[wikipedia:Gregorian calendar|Gregorian calendar]] leap years. In addition, in years divisible by 1000 loëndë was replaced by three enderi{{fact}}, resulting in a 367-day year. These leap year rules held throughout the [[Second Age]] and continued based on the restarted numbering of [[Third Age]] years, and the 2-day "millennial additions" continued through {{TA|2000}}. This calendar was replaced by the [[Stewards' Reckoning]] in {{TA|2060}}.<ref name="D2" />
+
+According to [[Jim Allan]] in ''[[An Introduction to Elvish]]'', each of the elvish month names has a correspondence to the months of the [[Wikipedia:French Republican Calendar|French Republican Calendar]]; for example, Nénimë/Pluviôse mean "Rainy", Súlìmë/Ventôse mean "Windy". Jim Allan suggests that Tolkien used this similarity because the French Republican Calendar was based on earlier unrecorded Germanic month names.<ref name="allan">{{HM|IE}}, p. 151</ref><!-- check chapter heading -->
+
+==Days of the week==
+When the Kings' Reckoning was first implemented the Númenóreans used the elven week of six days. At unspecified points of the [[Second Age]] two changes were made, the first being to rename the fourth day Aldúya to Aldëa (Orgaladh in Sindarin) in order to change the dedication to the [[White Tree]], and the second being to insert an extra day, Eärenya (Oraearon), after the fifth day Menelya.<ref name="D2" /> Thus, the eventual Númenórean week was as follows:
+
+{|class="TGtable"
+|- 
+!Quenya
+!Sindarin
+!Dedication
+|-
+|[[Elenya]]||[[Orgilion]]||[[Stars]]
+|-
+|[[Anarya]]||[[Oranor]]||[[Sun]]
+|-
+|[[Isilya]]||[[Orithil]]||[[Moon]]
+|-
+|[[Aldëa]]||[[Orgaladh]]||[[White Tree]]
+|-
+|[[Menelya]]||[[Ormenel]]||[[Heavens]]
+|-
+|[[Eärenya]]||[[Oraearon]]||[[Sea]]
+|-
+|[[Valanya]]||[[Orbelain]]||[[Valar]]
+|}
+
+{{references|note}}
+
+==External links==
+
+* The [https://psarando.github.io/shire-reckoning Shire Reckoning] project, dedicated to simulations and detailed analysis of all the calendars of ''The Lord of the Rings'' [[Appendix D]].
+
+[[Category: Middle-earth Calendars]]

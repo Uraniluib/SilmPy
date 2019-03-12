@@ -1,0 +1,392 @@
+{{rewrite}}
+''(See also [[:Category:Sindarin words|Sindarin words]])''
+
+'''Sindarin''' was the [[Elvish]] language most commonly spoken in [[Middle-earth]] in the [[Third Age]]. 
+==History==
+Sindarin was the language of the [[Sindar]], those [[Teleri]] which had been left behind on the [[Great Journey]] of the [[Elves]]. It was derived from an earlier language called [[Common Telerin]]. When the [[Noldor]] came back to Middle-earth, they adopted the Sindarin language, although they believed their native [[Quenya]] more beautiful. Before the downfall, most of the [[Men]] of [[Númenor]] also knew the language, though the common language there was [[Adûnaic]]. Knowledge of it was kept in the [[Númenóreans|Númenórean]] realms-in-exile [[Arnor]] and [[Gondor]], especially amongst the learned. While [[Westron]] (descended from Adûnaic) became the most common language in Middle-earth during the [[Third Age]], Sindarin remained the everyday language of Elves and [[Rangers of the North|Rangers]].
+
+Sindarin became the language of the Noldor because of the command of King [[Thingol|Elu Thingol]] of [[Doriath]].  Upon learning of the [[Kinslaying at Alqualondë]], he declared that [[Quenya]], the language of the Noldor, should be prohibited in his lands.  As the Noldor were dwelling in a Sindarin-speaking land, and because of the decree of Thingol though it did not directly affect them, they gradually switched entirely to Sindarin.  Their names were also changed to Sindarin, such as ''Finwë-Ñolofinwë'' to [[Fingolfin]], and ''Turukáno'' to [[Turgon]].
+
+When the [[Elves of Beleriand]] first encountered the dwarves, they could not understand a word of the [[Khuzdul|tongue of the Dwarves]]. Dwarves were swift to learn and indeed were more willing to learn Sindarin than to teach their own to those of alien race.<ref>{{S|10}}</ref>
+
+The written script alphabet of the Elven languages is typically '''[[Tengwar]]''', although '''[[Cirth]]''' (itself originally intended specifically for Sindarin) can also be used.
+
+== Grammar ==
+Sindarin is mainly analytic, though traits of its highly inflected progenitor can still be seen.
+
+=== Phonology ===
+Sindarin was designed to have a [[Welsh]]-like phonology. It has most of the same sounds and similar phonotactics.
+
+{| rules="all" style="text-align:center; border:1px solid darkgrey; border-collapse:collapse" cellpadding="3" cellspacing="0"
+| bgcolor="lightgrey" | '''Letter'''
+| bgcolor="lightgrey" | '''[[wikipedia:IPA|IPA]]'''
+| bgcolor="lightgrey" | '''Example'''
+| bgcolor="lightgrey" | '''Notes'''
+|-
+| a, ä || {{IPA|a}} || [[Aragorn|'''A'''r'''a'''gorn]] || Sindarin ''a'' is most like ''a'' in English ''father'' or ''a'' in Spanish ''mambo''.  Either pronunciation is suitable.
+|-
+| á || {{IPA|aː}} || &nbsp; || Sindarin ''á'' is pronounced just noticeably longer in duration than Sindarin ''a'', but otherwise is pronounced the same.
+|-
+| â || {{IPA|aːː}} || &nbsp; || Sindarin ''â'' is pronounced for an even longer duration than Sindarin ''á'', usually in single-syllable words.  But it is permissible to pronounce it the same as ''á''.
+|-
+| ae || {{IPA|a͡ɛ}} || [[Maedhros|M'''ae'''dhros]] || Similar to ''ai'', but ends at a ''more'' open vowel height.
+|-
+| ai || {{IPA|a͡ɪ}} || [[Edain|Ed'''ai'''n]] || Sindarin ''ai'' is most like ''i'' in English ''time''.  ''ae'' is similar to ''ai'', but ''ai'' ends at a ''less'' open vowel height.  J.R.R. Tolkien said that ''ae'' and ''ai'' can be pronounced the same if a person cannot tell the difference between them.
+|-
+| au, aw || {{IPA|a͡ʊ}} || [[Glaurung|Gl'''au'''rung]]; [[Oromë#Etymology|Ar'''aw''']] || Sindarin ''au'' is most like ''ou'' in English ''thousand'' or like ''ow'' in English ''cow''.  It is never pronounced like ''au'' in English ''cause'' or like ''aw'' in English ''law''.  The spellings ''au'' and ''aw'' are the same sound, but ''aw'' is preferred at the ends of words, as in ''[[Oromë#Etymology|Araw]]''.
+|-
+| b || {{IPA|b}} || [[Beleriand|'''B'''eleriand]] || &nbsp;
+|-
+| c || {{IPA|k}} || [[Celeborn|'''C'''eleborn]] || Always hard ''c'' like in English ''cake''.  Never soft ''c'' like in English ''cell''.
+|-
+| ch || {{IPA|x}} || [[orch|or'''ch''']] || Always like ''ch'' in Scottish ''loch''.  Never like ''ch'' in English ''chair''.
+|-
+| d || {{IPA|d}} || [[Dúnedain|'''D'''úne'''d'''ain]] || &nbsp;
+|-
+| dh || {{IPA|ð}} || [[Caradhras|Cara'''dh'''ras]] || Sindarin ''dh'' is most like ''th'' in English ''the''.  It is not pronounced like normal ''d''.
+|-
+| e, ë || {{IPA|ɛ}} || [[Beren|B'''e'''r'''e'''n]] || Sindarin ''e'' is most like ''e'' in English ''get'' or ''e'' in Spanish ''comprende''.  Either pronunciation is suitable, but it ''never'' has a ''y'' off-glide like in English ''grey''.
+|-
+| é || {{IPA|eː}} || &nbsp; || Sindarin ''é'' is pronounced just noticeably longer in duration than Sindarin ''e'', but otherwise is pronounced the same.
+|-
+| ê || {{IPA|eːː}} || &nbsp; || Sindarin ''ê'' is pronounced for an even longer duration than Sindarin ''é'', usually in single-syllable words.  But it is permissible to pronounce it the same as ''é''.
+|-
+| ei || {{IPA|ɛ͡ɪ}} || [[Gil-galad|Er'''ei'''nion]] || Sindarin ''ei'' is most like ''ey'' in English ''grey'', always with the ''y'' off-glide.
+|-
+| f || {{IPA|f, v}} || [[Fëanor|'''F'''ëanor]] || Represents {{IPA|[v]}} when final or before ''n'', and {{IPA|[f]}} everywhere else.
+|-
+| g || {{IPA|ɡ}} || [[Galadriel|'''G'''aladriel]] || Always hard ''g'' like in English ''gasp''.  Never soft ''g'' like in English ''gem''.
+|-
+| h || {{IPA|h}} || [[Húrin|'''H'''úrin]] || &nbsp;
+|-
+| hw || {{IPA|ʍ}} || &nbsp; || Sindarin ''hw'' is most like the traditional pronunciation of ''wh'' in English ''whale'', as it is still heard in Scotland, Ireland and parts of the southern United States.  It is also similar to ''ju'' in Mexican Spanish ''Juan''.  It is never pronounced like ordinary ''w'' in English ''wail''.  If nothing else works, try pronouncing ''w'' while whispering.
+|-
+| i || {{IPA|ɪ, j}} || [[Minas Tirith|M'''i'''nas T'''i'''r'''i'''th]] || Sindarin ''i'' is usually pronounced as the ''i'' in ''sick''. But sometimes Sindarin ''i'' is more like ''y'' in English ''young''&mdash;it is this way at the beginning of a word before a vowel, and in certain unstressed syllables before vowels.  (For instance, ''[[Doriath]]'' is a compound of ''[[dôr]]+[[iath]]'', where ''[[iath]]'' is just one syllable.)
+|-
+| í || {{IPA|iː}} || [[Círdan|C'''í'''rdan]] || Sindarin ''í'' is pronounced noticeably longer in duration than Sindarin ''i'', and has a different quality.  Sindarin ''í'' is most like ''i'' in English ''ink'' or like ''i'' in Spanish ''gringo''.  Either pronunciation is suitable. 
+|-
+| î || {{IPA|iːː}} || [[Gwîr|Gw'''î'''r]] || Sindarin ''î'' is pronounced for an even longer duration than Sindarin ''í'', usually in single-syllable words.  But it is permissible to pronounce it the same as ''í''.
+|-
+| l || {{IPA|l}} || [[Legolas|'''L'''ego'''l'''as]] || &nbsp;
+|-
+| lh || {{IPA|ɬ}} || [[Lhûn|Lh'''û'''n]] || There is no parallel for Sindarin ''lh'' in English.  But it is like ''ll'' in [[Welsh]] or ''ł'' in Navajo, or [[Quenya]] ''hl''.  More specifically, it is a ''voiceless alveolar lateral'', like ''s'' when spoken in a lateral lisp.  If nothing else works, try pronouncing ''l'' while whispering.
+|-
+| ll || {{IPA|lː}} || [[mellon|me'''ll'''on]] || Sindarin ''ll'' is pronounced for an even longer duration than Sindarin ''l'', but otherwise is pronounced the same.
+|-
+| m || {{IPA|m}} || [[Mordor|'''M'''ordor]] || &nbsp;
+|-
+| mh || {{IPA|ṽ}} || &nbsp; || An Archaic Sindarin sound, a "spirant" ''m'', just like Gaelic ''mh''.  This sound became the same as ''v'' since at least the First Age, and ''mh'' as a spirant ''m'' does not appear even in [[The Silmarillion]]-style Sindarin spellings, so that spellings like ''[[Tinúviel]]'' are preferred over ''*Tinúmhiel''.  Suffice it to say that this spelling of ''mh'' is not used in [[Lord of the Rings]]-style [[Third Age]] Sindarin either.
+|-
+| mm || {{IPA|mː}} || [[Rammas Echor|Ra'''mm'''as]] || Sindarin ''mm'' is pronounced for an even longer duration than Sindarin ''m'', but otherwise is pronounced the same.
+|-
+| n || {{IPA|n}} || [[Nevrast|'''N'''evrast]] || &nbsp;
+|-
+| nc || {{IPA|ŋk}} || [[Orthanc|Ortha'''nc''']] || Like ''nk'' in English ''think''.
+|-
+| ng || {{IPA|ŋ(ɡ)}} || [[Fingolfin|Fi'''ng'''olfin]]; [[Glamdring|Glamdri'''ng''']] || Represents {{IPA|[ŋɡ]}} between two vowels (like ''ng'' in English ''finger''), and {{IPA|[ŋ]}} everywhere else (like ''ng'' in English ''singer'').  It is never pronounced like ''ng'' in English ''ginger''.
+|-
+| nn || {{IPA|nː}} || [[Pelennor|Pele'''nn'''or]] || Sindarin ''nn'' is pronounced for an even longer duration than Sindarin ''n'', but otherwise is pronounced the same.
+|-
+| o, ö || {{IPA|ɔ}} || [[Gorgoroth|G'''o'''rg'''o'''r'''o'''th]] || Sindarin ''o'' is most like ''o'' in English ''hot'', but with rounder lips.  It can also be pronounced like the ''o'' in the Italian word ''notte''.  Either pronunciation is suitable, but it ''never'' has a ''w'' off-glide like ''ow'' in English ''show''.
+|-
+| ó || {{IPA|ɔː}} || [[Dor-lómin|Dor-l'''ó'''min]] || Sindarin ''ó'' is pronounced just noticeably longer in duration than Sindarin ''o'', but otherwise is pronounced the same.
+|-
+| ô || {{IPA|ɔːː}} || &nbsp; || Sindarin ''ô'' is pronounced for an even longer duration than Sindarin ''ó'', usually in single-syllable words.  But it is permissible to pronounce it the same as ''ó''.
+|-
+| oe || {{IPA|o͡e}} || &nbsp; || Sindarin ''oe'' is somewhat like ''oi'' in English ''join''.  Though this is not ''completely'' accurate because ''oe'' ends with an off-glide that sounds like Sindarin ''e'', it is a suitable pronunciation because there is no Sindarin ''oi'' to contrast with.  Alternately, ''oe'' is like ''oe'' in Hawaiian ''Aloha ʻOe''.
+|-
+| œ || {{IPA|ø}} || [[Nirnaeth Arnoediad|Nírnaeth Arn'''œ'''diad]] || An Archaic Sindarin sound, at one time pronounced like French ''eu'', ''oe'' or ''oeu'' or like German/Swedish ''ö'' or like Danish/Norwegian ''ø''.  In the [[Third Age]] it is pronounced just like Sindarin ''e'', so it is suitable to pronounce it like ''e''.  Mostly found in [[First Age]] Sindarin words, and most famously in ''[[Nirnaeth Arnoediad|Nírnaeth Arnœdiad]]''.  [[Lord of the Rings]]-style Third Age Sindarin spellings do not use ''œ'' at all, only ''e'', such as ''[[Ered Luin]]'' instead of ''*Œrœd Luin''.
+|-
+| p || {{IPA|p}} || [[Pengolodh|'''P'''engolodh]] || &nbsp; 
+|-
+| ph || {{IPA|f, fː}} || [[Ephel Dúath|E'''ph'''el Dúath]] || Represents {{IPA|[f]}} when final, {{IPA|[fː]}} everywhere else.
+|-
+| r || {{IPA|r}} || [[Boromir|Bo'''r'''omi'''r''']] || Sindarin ''r'' is always trilled or at least flapped wherever possible, like in Scottish English.  It is not pronounced like General English ''r'', but this is still often a suitable pronunciation because Sindarin has no other rhotic consonant besides ''rh''.
+|-
+| rh || {{IPA|r̥}} || [[Rhovanion|'''Rh'''ovanion]] || There is no parallel for Sindarin ''rh'' in English.  But it is like Welsh ''rh'', or [[Quenya]] ''hr''.  If nothing else works, try pronouncing ''r'' while whispering.
+|-
+| rr || {{IPA|rː}} || &nbsp; || Sindarin ''rr'' is pronounced for an even longer duration than Sindarin ''r'', but otherwise is pronounced the same.  For this reason, ''rr'' is always trilled, because a flap ''r'' cannot be pronounced long.
+|-
+| s || {{IPA|s}} || [[Sirion|'''S'''irion]] || Sindarin ''s'' is always pronounced like ''s'' in English ''safe'', and never like ''s'' in English ''ease''.  There is no ''z'' in Sindarin.
+|-
+| ss || {{IPA|sː}} || [[Ossiriand|O'''ss'''iriand]] || Sindarin ''ss'' is pronounced for an even longer duration than Sindarin ''s'', but otherwise is pronounced the same.
+|-
+| t || {{IPA|t}} || [[Túrin|'''T'''úrin]] || &nbsp;
+|-
+| th || {{IPA|θ}} || [[Ecthelion|Ec'''th'''elion]] || Sindarin ''th'' is always pronounced ''th'' in English ''think'', and never like ''th'' in English ''these''&mdash;the latter sound is used for the separate Sindarin consonant ''dh''.
+|-
+| u || {{IPA|ʊ}} || [[Curufin|C'''u'''r'''u'''fin]] || Sindarin ''u'' is most like ''u'' in English ''put'' or the vowel sound in the word ''good''. It is never pronounced like ''u'' in English ''gut'', or like ''u'' in English ''rude''.
+|-
+| ú || {{IPA|uː}} || [[Lúthien|L'''ú'''thien]] || Sindarin ''ú'' is pronounced just noticeably longer in duration than Sindarin ''u'', and has a different quality. It is pronounced like ''u'' in the English word ''dude'' or like ''u'' in Spanish ''mundo''.
+|-
+| û || {{IPA|uːː}} || [[Barad-dûr|Barad-d'''û'''r]] || Sindarin ''û'' is pronounced for an even longer duration than Sindarin ''ú'', usually in single-syllable words.  But it is permissible to pronounce it the same as ''ú''.
+|-
+| ui || {{IPA|u͡ɪ}} || [[Orodruin|Orodr'''ui'''n]] || Sindarin ''ui'' is most like ''oo y'' in English ''too young'', pronounced all in one syllable.  ''ui'' is always counted as one syllable, and never split into two syllables ''u i''.
+|-
+| v || {{IPA|v}} || [[Tinúviel|Tinú'''v'''iel]] || &nbsp;
+|-
+| w || {{IPA|w}} || [[Gwaihir|G'''w'''aihir]] || &nbsp;
+|-
+| y || {{IPA|y}} || [[Emyn Muil|Em'''y'''n Muil]] || Pronounced like the French ''u'' or the German ''ü''.  It is also permissible to pronounce it like Sindarin ''i'', if at least because Sindarin ''i'' and ''y'' become pronounced the same during the [[Third Age]].
+|-
+| ý || {{IPA|yː}} || &nbsp; || Sindarin ''ý'' is pronounced just noticeably longer in duration than Sindarin ''y'', but otherwise is pronounced the same.
+|-
+| ŷ || {{IPA|yːː}} || &nbsp; || Sindarin ''ŷ'' is pronounced for an even longer duration than Sindarin ''ý'', usually in single-syllable words.  But it is permissible to pronounce it the same as ''ý''.
+|}
+
+=== Nouns ===
+
+==== Pluralization ====
+Sindarin plurals are characterised by ''i-affection'', or ''umlaut'' (see also ''[[prestanneth]]'' "affection of vowels").<ref>{{L|347}}, p. 427</ref> Almost all Sindarin words form their plurals like English man/men and goose/geese — by changing the vowels in the word. The plural patterns are:
+
+{| rules="all" style="border:1px solid darkgray; border-collapse:collapse" cellpadding="4" cellspacing="0"
+| align="center" bgcolor="lightgrey" colspan="2" | '''In Non-final Syllables'''
+|-
+| a > e || galadh > gelaidh
+|-
+| e > e || bereth > berith
+|-
+| i > i || fireb > firib
+|-
+| o > e || golodh > gelydh
+|-
+| u > y || tulus > tylys
+|-
+| y > y || ''(no example available)''
+|-
+| align="center" bgcolor="lightgrey" colspan="2" | '''In Final Syllables'''
+|-
+| a > ai || adan > edain
+|-
+| â > ai || tâl > tail
+|-
+| e > i || edhel > edhil
+|-
+| ê > î || hên > [[hîn]]
+|-
+| i > i || brennil > brennil
+|-
+| î > î || dîs > dîs
+|-
+| o > y || annon > ennyn
+|-
+| ó > ý || bór > býr
+|-
+| ô > ŷ || thôn > thŷn
+|-
+| u > y || urug > yryg
+|-
+| û > ui || hû > hui
+|-
+| y > y || ylf > ylf
+|-
+| ý > ý || mýl > mýl
+|-
+| au > oe || naug > noeg
+|}
+
+Note that ''ai'' can sometimes become ''î'' (or, less commonly, ''ý'').
+
+The reason for this is that the primitive plural ending ''-î'' (still present in Quenya as ''-i'') affected the vowels in the word by making them higher and fronter.  After this sound change occurred, the suffix ''-î'' disappeared when all final vowels were lost.
+
+==== Class Plural ====
+Sindarin also has several suffixes which denote a so-called class plural.  For example, ''-ath'' indicates a group of something, e.g. ''elenath'' from ''[[elen]]'' (an archaic form of ''êl''), meaning "star" and ''-ath''. It means "a group of stars" or "all the stars in the sky". Another ending, ''-rim'', is used to indicate a race, e.g. ''nogothrim'' from ''nogoth'' — "dwarf" and ''-rim'', meaning "the race of dwarves". The ending ''-hoth'' is generally used in an unfriendly sense, e.g. ''gaurhoth'' from ''gaur'' — "werewolf" and ''-hoth'', meaning "werewolf-host".
+
+=== Mutation ===
+Sindarin has a complex series of mutations. There are three main different types of mutations: ''soft mutation'' (or lenition), ''nasal mutation'' and ''stop'' (occlusive) ''mutation''. Additionaly, a ''mixed mutation'' is also observed after certain particles or prepositions. Finally, it is presumed that Sindarin also once had what we could call an ''archaic spirantal mutation'' (also sometimes called ''liquid mutation'' by scholars). It is still uncertain whether this mutation is still productive or if it only occurs in ancient constructs.
+
+Initial mutations must not be confused with assimilations that may occur in compound words (such as, for instance, in the names ''[[Araphor]]'', ''[[Arassuil]]'', and ''[[Caradhras]]'').
+
+The following table outlines how different consonants are affected by the different mutations:
+
+{| rules="all" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="4" cellspacing="0"
+|-
+| bgcolor="lightgrey" | '''Basic''' 
+| bgcolor="lightgrey" | '''Soft''' 
+| bgcolor="lightgrey" | '''Nasal'''
+| bgcolor="lightgrey" | '''Mixed''' 
+| bgcolor="lightgrey" | '''Stop''' 
+| bgcolor="lightgrey" | '''Liquid'''
+|-
+| b || v || m || b || b || v
+|-
+| c || g || ch || g || ch || ch
+|-
+| d || dh || n || d || d || dh
+|-
+| g || ' || ng || g || g || '
+|-
+| h || ch || ch || h || ch || ch
+|-
+| lh || thl || 'l || 'l || thl || 'l
+|-
+| m || v || m || m || m || v
+|-
+| p || b || ph || b || b || ph
+|-
+| rh || thr || 'r || 'r || thr || 'r
+|-
+| s || h || s || h || s || s
+|-
+| t || d || th || d || th || th
+|}
+
+Here the apostrophe indicates elision.
+
+Words beginning in ''b-'', ''d-'', or ''g-'' which descend from older ''mb-'', ''nd-'', or ''ng-'' are affected differently by the mutations:
+
+{| rules="all" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="4" cellspacing="0"
+|-
+| bgcolor="lightgrey" | '''Basic''' 
+| bgcolor="lightgrey" | '''Soft''' 
+| bgcolor="lightgrey" | '''Nasal'''
+| bgcolor="lightgrey" | '''Mixed''' 
+| bgcolor="lightgrey" | '''Stop''' 
+| bgcolor="lightgrey" | '''Liquid'''
+|-
+| b || m || mb || mb || mb || b
+|-
+| d || n || nd || nd || nd || d
+|-
+| g || ng || g || g || g || g
+|}
+
+Take, for example, the deictic article ''i'', which triggers soft mutation. When added to a word like ''[[tâl]]'', it becomes ''i dâl''. In Sindarin's phonological history, ''t'' became ''d'' in the middle of a word. Because ''i tâl'' at the time was considered one word, the ''t'' became ''d'', and thus ''i dâl''. However, without the article the word is still ''tâl''.
+
+Mutation is triggered in various ways:
+* Soft mutation, the most widely occurring mutation, is triggered by the singular article ''i'', the prefixes ''athra-, ath-, [[go-]], [[go-|gwa-]], ú-,'' and ''u-'', as well as the prepositions ''ab, am, adel, be, dad, di, na, nu,'' and ''î'', and after ''avo''. It also affects the second element in a compound, an adjective following a noun, and the object of a verb.
+* Nasal mutation is triggered by the plural article ''in'', and the prepositions ''an, dan,'' and plural '''nin''.
+* Mixed mutation is triggered by the genitive article ''en'', and the prepositions ''ben, erin, nan, 'nin,'' and ''uin''.
+* Stop mutation is triggered by the prepositions ''ed, ned,'' and ''o(d)''.
+* Liquid mutation is presumably triggered by the preposition ''or''.
+
+=== Pronouns ===
+Pronouns are perhaps the most poorly attested feature of Sindarin. What has been reconstructed by the comparative method is largely conjectural and is not agreed upon, and therefore will not be addressed in this article.
+
+Sindarin pronouns, like those in English, still maintain some case distinction. Sindarin pronouns have nominative, accusative, genitive, and dative forms.
+
+{| rules="all" style="border:1px solid darkgrey; border-collapse:collapse" cellpadding="4" cellspacing="0"
+| rowspan="2" |
+| align="center" bgcolor="gray" colspan="2" | '''First Person'''
+| bgcolor="gray" |
+| align="center" bgcolor="gray" colspan="2" | '''Second Person''' 
+| bgcolor="gray" |
+| align="center" bgcolor="gray" colspan="2" | '''Third Person'''
+|-
+| align="center" bgcolor="lightgrey" | '''Singular''' 
+| align="center" bgcolor="lightgrey" | '''Plural''' 
+| bgcolor="lightgrey" |
+| align="center" bgcolor="lightgrey" | '''Singular''' 
+| align="center" bgcolor="lightgrey" | '''Plural''' 
+| bgcolor="lightgrey" |
+| align="center" bgcolor="lightgrey" | '''Singular''' 
+| align="center" bgcolor="lightgrey" | '''Plural'''
+|-
+| bgcolor="lightgrey" | '''Nominative''' 
+| ''im'' || &nbsp;  
+| bgcolor="lightgrey" |  
+| &nbsp; || &nbsp;
+| bgcolor="lightgrey" |
+| ''e'' || &nbsp; 
+|-
+| bgcolor="lightgrey" | '''Accusative''' 
+| ''nin'' || #''men'' 
+| bgcolor="lightgrey" |  
+| ''le'' (resp.) || ''le'' (resp.) 
+| bgcolor="lightgrey" |
+| ''den'' || ''di''<br>''hain'' (inanim.)
+|-
+| bgcolor="lightgrey" | '''Genitive''' 
+| ''nín'' || ''mín'' [subi. ''vín''] 
+| bgcolor="lightgrey" |  
+| &nbsp; || ''lín''
+| bgcolor="lightgrey" |
+| ''tîn'' [subi. ''dîn''] || &nbsp;  
+|-
+| bgcolor="lightgrey" | '''Dative'''  
+| ''enni'' [refl. ''anim''] || ''ammen'' 
+| bgcolor="lightgrey" |     
+| &nbsp; || &nbsp;
+| bgcolor="lightgrey" |    
+| &nbsp; || &nbsp;
+|-
+| bgcolor="lightgrey" | '''Enclitic''' 
+| -n || -m 
+| bgcolor="lightgrey" |
+| ?-ch || &nbsp;
+| bgcolor="lightgrey" |
+| — || -r
+|}
+
+=== Verbs ===
+Sindarin verbs are also quite complex. The number of attested verbs in Sindarin is small, so the Sindarin verb system is imperfectly known; no verb has a full paradigm of forms available. There are two main types of verbs: ''basic'' and ''derived''. Basic verbs have stems which end in a consonant, and derived verbs have stems which incorporate some sort derivational morpheme (such as a causative ending) which ends in ''-a''.
+
+==== Basic Verbs ====
+Basic verbs, though smaller in number than derived verbs, have a very complex conjugation which arises from Sindarin's phonological history.
+
+Basic verbs form the infinitve by adding ''-i'': ''giri'' from ''gir-''. This ending causes an ''a'' or ''o'' in the stem to umlaut to ''e'': ''blebi'' from ''blab-''. Sindarin does not use infinitive forms very often, and rather uses the gerund to achieve the same meaning.
+
+For all persons except the third person singular, the present tense is formed by the insertion of ''-i'', and the proper enclitic pronomial ending: ''girin'', ''girim'', ''girir''. As with the infinitive, ''-i'' causes an ''a'' or ''o'' in the stem to umlaut to ''e'': ''pedin'', ''pedim'', ''pedir'', from ''pad-''. The third person singular, because it has a zero-ending, does not require the insertion of ''-i''. This leaves the bare stem, which, because of Sindarin's phonological history, causes the vowel of the stem to become long: ''gîr'', ''blâb'', ''pâd''.
+
+The past tense of basic verbs is very complicated and poorly attested. One common reconstructed system is to use ''-n'': ''darn''. However, the only time this ''-n'' actually remains is after a stem in ''-r''. After a stem ending in ''-l'', ''-n'' becomes ''-ll'': ''toll''. After ''-b, -d, -g, -v,'' or ''-dh'', it is metathesized and then assimilated to the same place of articulation as the consonant it now follows. The consonant then experiences what could be called a "backwards mutation": ''-b, -d,'' and ''-g'' become ''-p, -b,'' and ''-c'', and ''-v'' and ''-dh'' become ''-m'' and ''-d''. The matter is complicated even further when pronomial endings are added. Because ''-mp, -mb, -nt, -nd,'' and ''-nc'' did not survive medially, they become ''-mm-, -mm-, -nn-, -nn-,'' and ''-ng''. In addition, past tense stems in ''-m'' would have ''-mm-'' before any pronomial endings. Because this all may seem rather overwhelming, look at these examples which show step-by-step transformations:
+
+* ''cab-'' > **''cabn'' > **''canb'' > **''camb'' > ''camp'', becoming ''camm-'' with any pronomial endings.
+* ''ped-'' > **''pedn'' > **''pend'' > ''pent'', becoming ''penn-'' with any pronomial endings.
+* ''dag-'' > **''dagn'' > **''dang'' (''n'' pronounced as in ''men'') > **''dang'' (''n'' pronounced as in ''sing'') > ''danc'', becoming ''dang-'' with any pronomial endings.
+* ''lav-'' > **''lavn'' > **''lanv'' > **''lanm'' > **''lamm'' > ''lam'', becoming ''lamm-'' before any pronomial endings.
+* ''redh-'' > **''redhn'' > **''rendh'' > **''rend'' > ''rend'', becoming ''renn-'' before any pronomial endings.
+
+The future tense is formed by the addition of ''-tha''. An ''-i'' is also inserted between the stem and ''-tha'', which again causes ''a'' and ''o'' to umlaut to ''e''. Endings for all persons except for the first person singular can be added without any further modification: ''giritham'', ''blebithar''. The first person singular ending ''-n'' causes the ''-a'' in ''-tha'' to become ''-o'': ''girithon'', ''blebithon'', ''pedithon''.
+
+The imperative is formed with the addition of ''-o'' to the stem: ''giro!'', ''pado!'', ''blabo!''.
+
+==== Derived Verbs ====
+Derived verbs have a much less complex conjugation because they have a thematic vowel (usually ''a'') which reduces the number of consonant combinations which occur.
+
+The infinitive is formed with ''-o'', which replaces the ''-a'' of the stem, e.g. ''lacho'' from ''lacha-''.
+
+The present tense is formed without modification to the stem. Pronomial endings are added without any change.
+
+The past tense is formed with the ending ''-nt'', which becomes ''-nne'' with any pronomial endings, e.g. ''erthant'', ''erthanner''.
+
+The future tense is formed with ''-tha''. With the addition of the first person singular ''-n'', this becomes ''-tho''.
+
+The imperative is formed like the infinitive.
+
+== Dialects ==
+During the [[First Age]] there were several dialects of Sindarin:
+*''[[Doriathrin]]'' or the language of [[Doriath]], a form of the language which preserved many archaic forms;
+*''[[Falathrin]]'' or the language of the [[Falas]], later also spoken in [[Nargothrond]];
+*''[[North Sindarin]]'', the dialects originally spoken in [[Dorthonion]] and [[Hithlum]] by the Sindar, these dialects contained many unique words and were not fully intelligible with the Sindarin of [[Beleriand]] proper.
+
+With the exception of Doriathrin, the dialects were changed under Noldorin influence, and adopted many [[Quenya]] features, as well as unique sound changes devised by the Noldor (who loved changing languages). The distinct dialects disappeared after the Noldor and Sindar were dispersed during the later [[Battles of Beleriand]]. In the refuges on the [[Isle of Balar]] and the [[Mouths of Sirion]] a new dialect arose under the refugees, which mainly took after Falathrin. During the [[Second Age]] and [[Third Age]] Sindarin was a ''lingua franca'' for all Elves and their friends, until it was displaced as the [[Westron|Common Tongue]] by [[Westron]], a descendant of [[Adûnaic]] which was heavily influenced by Sindarin.
+
+''Sindarin'' is actually a Quenya term. No Sindarin word for Sindarin is known, but usually the term '''''Edhellen''''' ("Elvish") is used in [[Neo-Sindarin]].
+
+==Etymology==
+
+The word '''Sindarin''' itself is actually a [[Quenya]] word given by the [[Noldor]]in Exiles.  It is pronounced {{IPA|[ˈsindarin]}}.
+
+==Names==
+
+Sindarin is the language referred to as "the '''Elven-tongue'''" in ''[[The Lord of the Rings]]''. 
+
+In a letter, [[J.R.R. Tolkien|Tolkien]] referred to Sindarin as '''Grey Elvish'''.<ref>{{L|230}}</ref> In another manuscript he used the similar name '''Grey-elven'''.<ref>{{PE|17}}, p. 127</ref>
+
+==Inspiration==
+
+Tolkien originally imagined that the language which would become ''Sindarin'' was spoken by the Noldor.  However, Tolkien later decided that it was the language of the Sindar. For this reason it is called "[[Noldorin]]" in the older material, such as the ''[[The Etymologies|Etymologies]]''. When Noldorin became Sindarin, it also adopted some features of the originally unrelated language ''[[Ilkorin]]''. Tolkien based the sound and some of the grammar of his Noldorin/Sindarin on [[Welsh]], and Sindarin displays of the consonant mutations that characterise the Celtic (especially Brythonic) languages. The language was also probably influenced to an extent by the Germanic languages, as Tolkien was a scholar of both [[Old English]] and [[Old Norse]].
+
+== External Links ==
+*[http://www.uib.no/People/hnohf/sindarin.htm Sindarin – ''The Noble Tongue''], by [[Helge Kåre Fauskanger]]
+*[http://www.jrrvf.com/hisweloke/sindar/ Hiswelókë's Sindarin Dictionary]
+*[http://sindarin.weet.us/ I Lam Arth - The Noble Tongue], a technical study of Sindarin
+*[http://www.jrrvf.com/~glaemscrafu/english/sindarin.html Sindarin sound samples] at [[Glǽmscrafu]]
+{{references}}
+
+[[Category:Sindarin| ]]
+[[Category:Quenya adjectives]]
+[[Category:Quenya nouns]]<!-- Note that the WORD "Sindarin" itself is a Quenya word. -->
+[[de:Sindarin]]
+[[fi:Sindar (kieli)]]
+[[fr:encyclo:langues:sindarin]]

@@ -1,0 +1,46 @@
+'''Lenition''' is a phonological and grammatical aspect of [[Sindarin]] which reflects the phonological mutations of the language in its evolution from [[Old Sindarin]].
+==Historical background==
+Lenition refers to the mutation of medial consonants, occurring usually between two vowels (VCV). It affected the Old Sindarin sounds '''p, t, k, b, d, g, m''' and '''s'''. 
+
+The sounds '''w, kh''' were lenited only at the beginning of a word.
+
+More specifically, the evolution of these sounds can be visualized in these examples:
+;p > b: OS *''kele'''p'''e'' > S ''[[celeb]]'' "silver"
+;t > d: OS *''a'''t'''ar'' > S ''[[adar]]'' "father"
+;k > g: OS ''[[beleka|bele'''k'''a]]'' > S ''[[beleg]]'' "great"
+
+;b > v: OS *''ja'''b'''asse'' > S ''[[Iavas]]'' "autumn"<ref group="note" name="Q">Similar softening occurred in [[Quenya]] also.</ref>
+;d > dh: OS *''ba'''d'''ro'' > S ''[[badhor]]'' "brother"
+;g > ∅: OS *''khu'''g'''o'' > *''huȝo''<ref group="note">The intermediate stage of ''g'' to extinction was [[yogh]]</ref> > S ''[[hû]]'' "dog"<ref group="note" name="Q"/>
+
+;m > v: OS *''ra'''m'''ia-'' > S ''[[revia-]]'' "to wander"
+;s > ∅: OS *''thele'''s'''e'' > *''thelehe'' > S ''[[thele]]'' "sister"
+
+;w- > gw-: OS ''[[wende|'''w'''ende]]'' > S ''[[gwend]]'' "maiden"
+;kh- > h-: OS *'''''kh'''anda'' > S ''[[hand]]'' "intelligence"
+
+==In compounds==
+As a consequence, this process took place also in Old Sindarin compounds, when the initial letter of a word was no longer initial in a compound. Even in later compounds that would be pure Sindarin, the lenition was solidified as a rule, envisioning retroactively the lenition process from a theoretical Old Sindarin compound.
+
+For example the word ''[[athrabeth]]'' "debate, converse (lit. 'across-word')" can be analyzed both as a derivative of OS word *''athra'''p'''ettha'' but also as a compound of Sindarin words ''[[athra-]]'' "across" + [[peth]]'' "word".
+
+The fact that the above sounds mutated when medially was solidified as a rule
+*[[thind]] + [[coll|'''c'''oll]] > [[Thingol]] (< ?OS *''Thinda'''k'''ollo'')
+*[[cair]] + [[tân|'''t'''ân]] > [[Cirdan]] (< ?OS *''Kiria'''t'''âno'')
+*[[fanui]] + [[dol|'''d'''ol]] > [[Fanuidhol]] (< ?OS *''Fanoi'''d'''olo'')
+*[[Edhel]] + [[sarn|'''s'''arn]] > [[Edhelharn]] (< ?OS *''Edelo'''s'''arno'')
+*[[harad|har-]] + [[Gondor|'''G'''ondor]] > [[Harondor]] (< ?OS *''Khara'''g'''onddor'')
+*[[ar|ar-]] + [[gwend|'''g'''wend]] > [[Arwen]] (< ?OS *''Arwende''; no ''g'' would evolve between ''ar-'' and ''wende'')
+*[[or-]] + [[hall|'''h'''all]] > [[orchal]] (< ?OS *''orkhalna''; ''kh'' would not lenite as ''h'' inside a word)
+==Grammatical and Syntactical significance==
+{{stub}}
+==Inspiration==
+Sindarin, being inspired from the Welsh language, also borrowed heavily from its [http://en.wikipedia.org/wiki/Welsh_morphology#Initial_consonant_mutation mutation system]<Ref>[[Jim Allan]] (ed.) ''[[An Introduction to Elvish]]'' "Sindarin grammar"</ref>. The [http://en.wikipedia.org/wiki/Lenition#Grammatical_lenition grammatical lenition] is generally prominent in the [[Celtic]] languages.
+
+==External links==
+*[http://www.phy.duke.edu/~trenk/elvish/mutations.html Mutations in Sindarin] by [[Thorsten Renk]]; it also covers Lenition.
+*[http://folk.uib.no/hnohf/sindarin.htm#mutations Soft mutation] from the [[Ardalambion]] article on Sindarin by [[Helge Fauskanger]]
+*[http://www.fa-kuan.muc.de/SINDARIN.RXML Some Questions on Sindarin Lenition] by Alfred W. Tueting
+{{references|note}}
+[[Category:Linguistic terms]]
+[[Category:Sindarin]]

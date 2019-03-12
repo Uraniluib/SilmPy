@@ -1,0 +1,39 @@
+'''Daniel Steven Smith''' is a programmer and science fiction hobbyist who maintains a "[http://www.acondia.com/fonts/index.html Fantasy Fonts for Windows]" website.
+
+In [[1997]] he created [[Tengwar]] [[fonts]], the first ones being titled "Tengwar Quenya" and "Tengwar Sindarin". Since then he created other variants (ornamental, capital or alternative tengwar shapes). He proceeded to creating [[Cirth]] fonts as well as historical [[Rune]] fonts as the ones seen in ''[[The Hobbit]]''.
+
+His website contained descriptions and guides about the best known Tengwar modes and had been a usual reference point. By September [[2014]], Tolkien-related information was removed at the request of the [[Tolkien Estate]].
+==Creations==
+===Tengwar===
+*Tengwar Quenya (regular, capitals, doubled-stroked capitals, and alternate)
+*Tengwar Sindarin (regular, capitals, doubled-stroked capitals, and alternate)
+*Tengwar Noldor (regular, capitals, doubled-stroked capitals, and alternate)
+
+Note that the tengwar fonts differ only visually or stylistically (they all utilize the same keymapping) and are '''not''' language specific. The names "Quenya" and "Sindarin" are used only as their titles and have nothing to do with the languages themselves.
+===Cirth===
+*Cirth Erebor (regular, barred and double-barred)
+*Cirth Erebor Capital (regular, doubled-stroked and pointed)
+===Runes (historical)===
+* Germanic Rune fonts (reg, 1-bar, & 2-bars)
+* AngloSaxon Rune fonts (reg, 1-bar, & 2-bars)
+* Dwarvish Rune fonts (reg, 1-bar, & 2-bars)
+==Keymapping==
+Dan Smith had to devise a layout to fit the tengwar into the keyboard and it was subsequently adopted by other fontmakers ever since. Over the years, Smith's keymapping became an unofficial de facto "standard", ensuring compatibility among the most well-known fonts. 
+
+Dan Smith's idea was to divide the keys into [[tyeller|rows]] and [[témar|series]] as appear in the tengwar table of [[Appendix E]]. This way for example, the first 4 Tengwar that consist the [[Tyelle|Row]] I ([[Tinco]], [[Parma]], [[Calma]], [[Quessë]]) are assigned to the leftmost keys of the keyboard ('''1''', '''q''', '''a''', '''z'''). The next 4 keys ('''2''', '''w''', '''s''', '''x''') correspond to the Row II ([[Ando]], [[Ambar]], [[Anga]], [[Ungwë]]) and so on.
+
+The uppercase letters are used for the [[tehtar]] and alternative forms; for example the keys of the third row, when uppercase ('''#''', '''E''', '''D''', '''C''') display various positions of the ''a''-tehta. Extended characters correspond to Tengwar numerals, punctuation marks and less common tehtar or letters.
+
+Tengwar typefaces that use  Dan Smith's encoding include [http://home.student.uu.se/j/jowi4905/fonts/annatar.html Johan Winge's ''Tengwar Annatar''], [http://at.mansbjorkman.net/parmaite.htm Måns Björkman's ''Tengwar Parmaite''], [http://www.enrombel.byteact.com/eng_dir/Index.htm Enrique Mombello's ''Tengwar Élfica, Tengwar Beleriand'' and ''Tengwar Gothica''], [http://www.limes.com.pl/~miszka/ Michal Nowakowski's ''Tengwar Formal''], Cursive, Hereno and others; they are mutually compatible, excepting some minor differences. 
+
+There has been also some software that help transcribe a Roman text to tengwar fonts that follow this keymapping.
+
+==External links==
+*[http://www.acondia.com/fonts/dansmith/index.html Dan Smith bio]
+*[http://74.125.79.100/translate_c?hl=en&sl=pl&tl=en&u=http://tengwar.art.pl/tengwar/smith.php&prev=_t&usg=ALkJrhiSCZKQekNkd2asHYXsxDQYJWEUDw Page describing and explaining Smith's keymapping] (through Google translate)
+*[http://www.sci.fi/~alboin/tengwartutorial.htm#thefonts Writing with Elvish fonts] Tutorial about utilizing the fonts that follow Smith's keymapping
+*[http://at.mansbjorkman.net/tengscribe.htm  The Tengwar Scribe] A Windows utility for transcribing Roman letters into Tengwar using Daniel Smith’s fonts. 
+[[category:linguists|Smith, Dan]]
+[[category:Webmasters|Smith, Dan]]
+[[category:American people|Smith, Dan]]
+[[category:People by name|Smith, Dan]]

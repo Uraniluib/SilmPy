@@ -1,0 +1,557 @@
+{{cleanup}}
+{{font|[http://at.mansbjorkman.net/parmaite.htm Tengwar Parmaite] by [[Måns Björkman]]}}
+{{disambig-more|Fëanorian|[[Fëanorian (disambiguation)]]}}
+[[Image:Ryszard Derdzinski - Feanor.jpg|thumb|[[Fëanor]] designs the first Tengwar]]
+The '''''Tengwar''''' ([[Quenya]] "letters", pron. {{IPA|[ˈteŋʷɡʷar]}}; [[Sindarin]] '''''Tîw'''''<ref>{{App|E2}}</ref>) was a writing system invented by [[Fëanor]] (and was therefore also called the '''Fëanorian alphabet'''<ref>{{L|25}}</ref> or '''script'''<ref>{{L|168}}</ref>). It was used for a variety of languages among the [[Free peoples]] and became perhaps the most prominent writing system of [[Arda]], used by a variety of [[:Portal:Characters|Races]] through the [[Ages]].
+
+==History==
+===The Classical Quenya mode===
+{{main|Quenya mode}}
+[[Fëanor]] invented the Tengwar on the [[Year of the Trees 1250]], strongly influenced by the [[Sarati]] of [[Rúmil (elf of Tirion)|Rúmil the Loremaster]].<ref>{{WJ|P4}}</ref><ref name="ApD">{{VT|39a}}</ref> Fëanor both constructed the Tengwar as a general phonetic alphabet and devised special arrangements to fit the characteristics of all languages of [[Valinor]].<ref>{{TI|Runes}}</ref>
+
+Unlike Rúmil, Fëanor considered vowels as indepedent sounds and not just “colours” of the consonants, so he devised the “full writing” ([[Quanta Sarmë]]).<ref name="ApD"/>
+
+However, Fëanor also used a more 'conservative' system which seem to have been proved far more popular; he held Rúmil's idea of syllabic analysis of the words by the Sarati and made also use of [[tehtar]] instead of the full letters.<ref name="ApD"/>. 
+
+The classical Quenya mode of the Tengwar may have originated from Fëanor's own arrangement. There is no direct evidence for this hypothesis, but the use of the Quenya names for the individual letters hints to a primate of the Quenya mode. Another hint to a very old age of the classical Quenya mode is that it uses the [[Calmatéma]] as a k-series, like the mode of Beleriand which we can assume to have originated in the First Age.
+
+===The Mode of Beleriand===
+{{main|Mode of Beleriand}}
+[[Image:J.R.R. Tolkien - Doors of Durin.jpg|thumb|The [[Doors of Durin]] created during the [[Second Age]]]]
+When the [[Noldor]] rebelled and came to [[Middle-earth]], they adapted their writing for the new languages they learned. Quanta Sarmë was used for languages where the tehtar were not useful<ref name="ApD" /> which could have been the origin for the Mode of Beleriand. 
+
+It is also possible that the Tengwar influenced the evolution of the [[Cirth]] of [[Daeron]] in Beleriand, mainly in their shape and arrangement. 
+
+We know from the inscription on the Western [[Moria Gate]] that a Tengwar mode called the [[Mode of Beleriand]] was used in [[Eregion]]. This name allows for the assumption that the same mode was used already in the [[First Age]].
+
+At the end of the [[Third Age]], the Elves of [[Rivendell]] probably still used that mode, since a transcription of the Rivendell [[aerlinn]] ''[[A Elbereth Gilthoniel]]'' features it.<ref>{{RGEO|7}}</ref> Frodo, however, even though literate in Sindarin, was appearently unable to read this mode.
+
+===The General Use===
+By the end of the Third Age, there was a ''general use'' that could be used for a variety of languages including Quenya, Sindarin and the Common Speech.<ref>[[J.R.R. Tolkien]], "[[Letter to Anthony D. Howlett]] (letter); see also [http://www.forodrim.org/daeron/mdtci.html#DTS58 DTS58]</ref> This use could have evolved during the [[Second Age]] in [[Eregion]] or even in [[Númenor]].
+[[Image:One ring.png|thumb|left|The [[Ring Verse|inscription]] on [[The One Ring]].]]
+The same mode appears on the [[Ring-inscription]]<ref>{{FR|Shadow}}</ref> that the [[Númenorean]] [[Isildur]] observed it to be "fashioned in an elven-script of Eregion".<ref>{{FR|Council}}</ref> 
+
+It is not certain whether the whole ''mode'' itself was from Eregion or simply just the ''script'' was of an Elvish fashion. Some [[Adûnaic]] words use this mode.<ref>{{HM|SD}}, Lowdham's Inscription</ref>.
+
+Another mode that was based on the "general use" but used full letters for the representation of vowels was used in the Northern part of the [[Westron]]-speaking regions, perhaps by influence of the Elves of [[Rivendell]]. This might explain why Frodo was unable to read either the Mode of Beleriand or the Ring Inscription.
+
+== Spelling and Pronunciation ==
+=== Structure ===
+The most notable characteristic of the Tengwar script is that the shapes of the letters correspond to the features of the sounds they represent.
+
+The shape of the Tengwar uniformly consisted of two elements, the ''[[telco]]'' (stem) to which is attached a ''[[lúva]]'' (bow). 
+It is noticeable that some of the letters of the [[Sarati|Sarati]] resembled the telco/lúva shape seen on the Tengwar. Therefore it is possible that those particular letters influenced stylistically the Tengwar.
+
+The telco could be normal, raised, shortened or heightened. The lúva would be single or doubled, and these could be open or closed. 
+
+All the above combinations can create 32 to 40 different shapes of letters. These shapes mirrored phonological significances: the basic form of a tengwa was used for the [[patakar]], the voiceless stops; telcor determined how the sound was articulated, and the lúvar where in the mouth it was made:
+* Doubling the bow turns the voiceless consonant into a voiced one.
+* Raising the stem above the line turns it into the corresponding fricative or a corresponding voiced version of it.
+* Shortening it (so it is only the height of the bow) indicates the corresponding nasal or, mostly, the approximants.
+
+According to their shape, the 32 different glyphs could be arranged and presented consistently on a table. The principal letters are divided into series (''témar'') that correspond to the main places of articulation and into six rows (''tyeller'') that correspond to the main manners of articulation. Both vary among modes.
+
+The table below gives the '''theoretical'''<ref>Observations made by [[Jim Allan]]'s ''[[An Introduction to Elvish]]'', The Evolution of the Tengwar</ref> values of the Tengwar based consistently on the abovementioned rules. Note that no language possessed all these sounds and the following does not represent an actual table of values of a particular language. In actuality, the languages used modifications or variations of them.
+
+{| border="1"
+! | 
+! colspan="2" | Labial
+! colspan="2" | Dental
+! colspan="2" | Velar
+! colspan="2" | Labiovelar
+|-
+|Voiceless<br>plosives
+| {{tg|q}}
+| p
+| {{tg|1}}
+| t
+| {{tg|a}}
+| k
+| {{tg|z}}
+| kw
+|-
+|Voiced<br>plosives
+| {{tg|w}}
+| b
+| {{tg|2}}
+| d
+| {{tg|s}}
+| g
+| {{tg|x}}
+| gw
+|-
+|Aspirated<br>voiceless plosives
+| {{tg|Q}}
+| p<sup>h</sup>
+| {{tg|!}}
+| t<sup>h</sup>
+| {{tg|A}}
+| k<sup>h</sup>
+| {{tg|Z}}
+| k<sup>h</sup>w
+|-
+|Aspirated<br>voiced plosives
+| {{tg|W}}
+| b<sup>h</sup>
+| {{tg|@}}
+| d<sup>h</sup>
+| {{tg|S}}
+| g<sup>h</sup>
+| {{tg|X}}
+| g<sup>h</sup>w
+|-
+|Voiceless<br>fricatives
+| {{tg|e}}
+| f
+| {{tg|3}}
+| th
+| {{tg|d}}
+| ch
+| {{tg|c}}
+| chw
+|-
+|Voiced<br>fricatives
+| {{tg|r}}
+| v
+| {{tg|4}}
+| dh
+| {{tg|f}}
+| gh
+| {{tg|v}}
+| ghw
+|-
+|Voiceless<br>nasals
+| {{tg|y}}
+| hm
+| {{tg|6}}
+| hn
+| {{tg|h}}
+| hñ
+| {{tg|n}}
+| hñw
+|-
+|Nasals
+| {{tg|t}}
+| m
+| {{tg|5}}
+| n
+| {{tg|g}}
+| ñ
+| {{tg|b}}
+| ñw
+|-
+|}
+
+===Arrangement===
+By the end of the [[Third Age]], the Tengwar were somehow standardized. Their Quenya names became standard for all modes, and less used ones were not included (although still used), such as those of the extended stems and the [[Tyelpetéma]]. The table displayed 36 letters: the 24 standard Tengwar, plus 12 of the additional Tengwar.
+
+Also, the Tengwar were assigned numeric values.
+
+{| border="1"
+! 
+! colspan="2" | Tincotéma
+! colspan="2" | Parmatéma
+! colspan="2" | Calmatéma
+! colspan="2" | Quessetéma
+|-
+|Grade I
+| {{tg|1}}
+| [[Tinco]]
+| {{tg|q}}
+| [[Parma]]
+| {{tg|a}}
+| [[Calma]]
+| {{tg|z}}
+| [[Quesse]]
+|-
+|Grade II
+| {{tg|2}}
+| [[Ando]]
+| {{tg|w}}
+| [[Umbar (word)|Umbar]]
+| {{tg|s}}
+| [[Anga]]
+| {{tg|x}}
+| [[Ungwe]]
+|-
+|Grade III
+| {{tg|3}}
+| [[Súlë]]
+| {{tg|e}}
+| [[Formen]]
+| {{tg|d}}
+| [[Aha]]
+| {{tg|c}}
+| [[Hwesta]]
+|-
+|Grade IV
+| {{tg|4}}
+| [[Anto]]
+| {{tg|r}}
+| [[Ampa]]
+| {{tg|f}}
+| [[Anca]]
+| {{tg|v}}
+| [[Unque]]
+|-
+|Grade V
+| {{tg|5}}
+| [[Númen]]
+| {{tg|t}}
+| [[Malta]]
+| {{tg|g}}
+| [[Noldo]]
+| {{tg|b}}
+| [[Nwalme]]
+|-
+|Grade VI
+| {{tg|6}}
+| [[Óre]]
+| {{tg|y}}
+| [[Valar|Vala]]
+| {{tg|h}}
+| [[Anna]]
+| {{tg|n}}
+| [[Vilya]]
+|-
+!
+! colspan="8" | '''Additional Tengwar:'''
+|-
+|
+| {{tg|7}}
+| [[Rómen]]
+| {{tg|u}}
+| [[Arda]]
+| {{tg|j}}
+| [[Lambe]]
+| {{tg|m}}
+| [[Alda]]
+|-
+|
+| {{tg|8}}
+| [[Silme]]
+| {{tg|i}}
+| [[Silme nuquerna]]
+| {{tg|k}}
+| [[Essë]]
+| {{tg|,}}
+| [[Esse nuquerna]]
+|-
+|
+| {{tg|9}}
+| [[Hyarmen]]
+| {{tg|l}}
+| [[Yanta]]
+| {{tg|o}}
+| [[Hwesta Sindarinwa]]
+| {{tg|.}}
+| [[Úrë]]
+|-
+|
+| {{tg|&#189;}}
+| [[Halla]]
+| {{tg|`}}
+| [[Telco]]
+| {{tg|~}}
+| [[Ára]]
+|-
+|}
+
+== Values==
+As mentioned, the Tengwar had a generic mode that covered a wide range of phonemes. This mode perhaps originated in [[Eregion]] and exemplified in the verse of [[the One Ring]] and other Westron Tengwar texts. It could be used for both Quenya and Sindarin.
+
+The following table gives both the formal Quenya and Numenian<ref>[[Jim Allan]]'s ''[[Report from Marquette]]''</ref> names of the Tengwar. When two values are given (separated with a '''/''' slash), the first refers to the Elvish variation and the second to the [[Mannish]] or Westron variation. 
+
+Note that the dashes indicate when the letter is used initially or finally and/or as a diphthong element.
+
+{| border="1"
+! colspan="2" | Tincotéma
+! colspan="2" | Parmatéma
+! colspan="2" | Calmatéma
+! colspan="2" | Quessetéma
+|-
+| {{tg|1}}
+| t<br>Tinco/Tó
+| {{tg|q}}
+| p<br>Parma/Pí
+| {{tg|a}}
+| ch (as in '''''ch'''ur'''ch''''')<br>Calma/Ché
+| {{tg|z}}
+| k<br>Quesse/Ká
+|-
+| {{tg|2}}
+| d<br>Ando/Dó
+| {{tg|w}}
+| b<br>Umbar/Bí
+| {{tg|s}}
+|j<br>Anga/Jé
+| {{tg|x}}
+| g<br>Ungwe/Gá
+|-
+| {{tg|3}}
+| th<br>Súle/Thó
+| {{tg|e}}
+| f<br>Formen/Fí
+| {{tg|d}}
+|sh<br>Aha/Shé
+| {{tg|c}}
+| ch/h (as in ''lo'''ch''''')<br>Hwesta/Aha (or Oha)
+|-
+| {{tg|4}}
+| dh<br>Anto/Adhó
+| {{tg|r}}
+| v<br>Ampa/Ví
+| {{tg|f}}
+| zh<br>Anca/Izhe
+| {{tg|v}}
+|gh<br>Unque/Agha
+|-
+| {{tg|5}}
+| n<br>Númen/Nó
+| {{tg|t}}
+| m<br>Malta/Mí
+| {{tg|g}}
+| ny<br>Noldo/Nyé
+| {{tg|b}}
+| ng<br>Nwalme/Ngá
+|-
+| {{tg|6}}
+| -r/r<br>Óre/Ar
+| {{tg|y}}
+| w, -u/w<br>Vala/Wí
+| {{tg|h}}
+| -i/y<br>Anna/Yé
+| {{tg|n}}
+|&rsquo;?<br>&rsquo;á
+|-
+! colspan="8" | Additional Tengwar:
+|-
+| {{tg|7}}
+| r<br>Rómen/Aro
+| {{tg|u}}
+| rh<br>Arda/Rho
+| {{tg|j}}
+| l<br>Lambe/Alo
+| {{tg|m}}
+| lh<br>Alda/Lho
+|-
+| {{tg|8}}
+| s<br>Silme/Só
+| {{tg|i}}
+|s<br>Silme Nuquerna/Ós
+| {{tg|k}}
+| ss/z<br>Esse/Azo
+| {{tg|,}}
+| z<br>Oza
+|-
+| {{tg|9}}
+| h<br>Hyarmen/Há
+| {{tg|l}}
+| i-, -e<br>Yanta/Ai
+| {{tg|o}}
+| wh<br>Hwesta Sindarinwa/Whí
+| {{tg|.}}
+| -u?<br>Úre/Au
+|}
+
+The following is a full mode variety, related mainly to the north, and uses Tengwar (and carriers) as vowels. It was probably created in [[Arnor]], influenced from the Mode of Beleriand used in [[Rivendell]]. Even the [[Dwarves|dwarf]] [[Ori]] wrote in this hand in the [[Book of Mazarbul]]<ref>The second page of the Book of Mazarbul ([http://www.forodrim.org/daeron/mdtci.html#DTS13 DTS13]) said to be written by Ori, is categorized to belong to the Northern Variety [http://at.mansbjorkman.net/teng_modes.htm here]</ref>.
+
+{| border="1"
+! colspan="2" | Tincotéma
+! colspan="2" | Parmatéma
+! colspan="2" | Calmatéma
+! colspan="2" | Quessetéma
+|-
+| {{tg|1}}
+| t<br>Tinco/Tó
+| {{tg|q}}
+| p<br>Parma/Pí
+| {{tg|a}}
+|ch (as in '''''ch'''ur'''ch''''')<br>Calma/Ché
+| {{tg|z}}
+| k<br>Quesse/Ká
+|-
+| {{tg|2}}
+| d<br>Ando/Dó
+| {{tg|w}}
+| b<br>Umbar/Bí
+| {{tg|s}}
+|j<br>AngaJé
+| {{tg|x}}
+| g<br>Ungwe/Gá
+|-
+| {{tg|3}}
+| th<br>Súle/Thó
+| {{tg|e}}
+| f<br>Formen/Fí
+| {{tg|d}}
+|sh<br>Aha/Shé
+| {{tg|c}}
+| ch/h (as in ''lo'''ch'''''<br>Hwesta/Aha
+|-
+| {{tg|4}}
+| dh<br>Anto/Adhó
+| {{tg|r}}
+| v<br>Ampa/Ví
+| {{tg|f}}
+|zh<br>Anca/Izhe
+| {{tg|v}}
+|gh<br>Unque/Agha
+|-
+| {{tg|5}}
+| n<br>Númen/Nó
+| {{tg|t}}
+| m<br>Malta/Mí
+| {{tg|g}}
+|ny<br>Noldo/Nyé
+| {{tg|b}}
+| ng<br>Nwalme/Ngá
+|-
+| {{tg|6}}
+| -r/r<br>Óre/Ar
+| {{tg|y}}
+| w, -u/u<br>Vala/Wí
+| {{tg|h}}
+| o<br>Anna/Yé
+| {{tg|n}}
+|a<br>'a
+|-
+! colspan="8" | Additional Tengwar:
+|-
+| {{tg|7}}
+| r<br>Rómen/Aro
+| {{tg|u}}
+| rh<br>Arda/Rho
+| {{tg|j}}
+| l<br>Lambe/Alo
+| {{tg|m}}
+| lh<br>Alda/Lho
+|-
+| {{tg|8}}
+| s<br>Silme/Só
+| {{tg|i}}
+|s<br>Silme Nuquerna/Ós
+| {{tg|k}}
+| ss/z<br>Esse/Azo
+| {{tg|,}}
+| z<br>Esse Nuquerna/Oza
+|-
+| {{tg|9}}
+| h<br>Hyarmen/Há
+| {{tg|l}}
+| i-, -e/e<br>Yanta/Ai
+| {{tg|o}}
+| wh<br>Hwesta Sindarinwa/Whí
+| {{tg|.}}
+| w<br>Úre/Au
+|-
+|{{tg|`B}}	
+|i	
+|{{tg|~B}}	
+|i-/y-
+|{{tg|]}}
+|a	
+| {{tg|š}}
+| mh
+|}
+
+==Other modes==
+Just as with any alphabetic writing system, every specific language written in Tengwar requires a specific orthography, depending on the phonology of that language. These Tengwar orthographies are usually called ''modes''. All of them use as a basis the "[[Tengwar#Structure|theoretical values]]" table above, corresponding the letters to the phonemes of each language's phonology, and even drop out the characters that would be useless.
+
+All the modes can be divided into two large categories: 
+*Some represent vowels with diacritics called '''[[tehtar]]''' or ''[[ómatehtar]]'' ("vowel tehtar"), like the [[Quenya mode]].
+*The "full writing" modes represent vowels by normal letters, such as the [[Quanta Sarmë]] or the [[Mode of Beleriand]].
+
+Furthermore, some modes map the basic consonants to {{IPA|/t/}}, {{IPA|/p/}}, {{IPA|/k/}}, and {{IPA|/kʷ/}}, while others (generally [[Mannish]]) use them to represent {{IPA|/t/}}, {{IPA|/p/}}, {{IPA|/tʃ/}}, and {{IPA|/k/}}.
+
+== External History ==
+The [[sarati]], a script developed by Tolkien in the late 1910s that is described in ''[[Parma Eldalamberon]] 13'', anticipates many features of the Tengwar, especially the vowel representation by diacritics (which is found in many Tengwar varieties), different Tengwar shapes and a few correspondances between sound features and letter shape features (though inconsistent).
+
+Even closer to the Tengwar is the [[Valmaric script]], described in ''Parma Eldalamberon 14'', which Tolkien used from about 1922 to 1925. It features many Tengwar shapes and the inherent vowel {{IPA|[a]}} found in some Tengwar varieties. The tables in the samples V12 and V13 show an arrangement that is very similar to the one of the primary Tengwar in the classical Quenya "mode".
+
+The Tengwar were probably developed in the late 1920s or in the early 1930s. ''The Lonely Mountain Jar Inscription'', the first published Tengwar sample, dates to 1937 (''[[The Hobbit]]'', most editions). The full explanation of the Tengwar was published in Appendix E of ''[[The Lord of the Rings]]'' in 1955.
+
+==Inspiration==
+[[Jim Allan]] (''[[An Introduction to Elvish]]'', ISBN 0-905220-10-2) compared the Tengwar with the ''Universal Alphabet'' of Francis Lodwick of 1686, both on grounds of the correspondence between shape features, sound features and of the actual letter shapes. A correspondence between shape features and sound features is also found in the Korean Hangul alphabet. 
+
+It is not known whether Tolkien was aware of these previous scripts. However, considering the sarati and the valmaric script that he already invented in his youth, it is conceivable that Tolkien developed the idea of a general correspondence between shape features and sound features by himself.
+
+It is likewise not known whether the shapes of several Tengwar were inspired by the insular minuscule script (used to write Anglo-saxon) or the gothic textura and cursive scripts (used to write Middle English), with which Tolkien was familiar through reading medieval manuscripts in these languages in his professional capacity as a linguist.
+
+==Tengwar study==
+===Modes===
+As the peoples of Middle-earth used various modes of Tengwar, and as Tolkien wrote English, [[Old English]] and [[Norse]] in Tengwar, [[fandom|fans]] have created Tengwar modes for real languages. There are modes to write French, Swedish, Latin or Spanish. 
+=== Encoding Schemes ===
+==== Non-Unicode ====
+The contemporary de facto standard in the Tengwar user community maps the Tengwar characters onto the regular English character encoding following the example of the [http://www.gis.net/~dansmith/fonts/font_tengwar/ Tengwar typefaces] by [[Dan Smith]]. A drawback of the font solution is that, if no corresponding Tengwar font is installed, an awful string of [[wikipedia:Mojibake|nonsense characters]] appears.
+
+Since there is not enough place for all the signs, certain signs are included in a "Tengwar A" font which also maps its characters on ISO 8859-1, overlapping with the first font.
+
+For each Tengwar diacritic there are four different codepoints that are used depending on the width of the character which bears it.
+
+Other Tengwar typefaces with Dan Smith's encoding include [http://home.student.uu.se/j/jowi4905/fonts/annatar.html Johan Winge's Tengwar Annatar], [http://at.mansbjorkman.net/parmaite.htm Måns Björkman's Tengwar Parmaite], [http://www.geocities.com/enrombell/Archivos.htm Enrique Mombello's Tengwar Élfica] or [http://www.limes.com.pl/~miszka/ Michal Nowakowski's Tengwar Formal] (note that most of these differ in details).
+
+The following sample shows the first article of the Universal Declaration of Human Rights written in English according to the traditional English orthography. If no Tengwar font is installed, it will look nonsense since the corresponding ISO 8859-1 characters (Roman letters, numbers and signs) will appear instead.
+
+{{tg|j#¸ 9t&5# w`Vb%_ 6EO w6Y5 e7~V 2{( zèVj# 5% 2x%51T`Û 2{( 7v%1+º 4hR 7EO 2{$yYO2 y4% 7]F85^ 2{( z5^8i`B5$i( 2{( dyYj2 zE1 1`N ]Fa 4^(6 5% `C 8q7T1T W w74^(69~N2º}}
+
+==== Unicode ====
+A proposal has been made by Michael Everson to include the Tengwar in the [[Unicode]] standard. The codepoints are subject to change; the range U+016080 to U+0160FF in the Supplementary Multilingual Plane is tentatively allocated for Tengwar according to the current [http://www.unicode.org/roadmaps/smp/ Unicode roadmap].
+
+Tengwar are currently included in the unofficial ConScript Unicode Registry, which assigns codepoints in the Private Use Area. Tengwar are mapped to the range U+E000 to U+E07F. The following Unicode sample (which repeats the one above) is meaningful when viewed under a typeface supporting Tengwar glyphs in the area defined in the ConScript Tengwar proposal. Some typefaces that support this proposal are [http://www.evertype.com/emono/ Everson Mono], [http://freetengwar.sourceforge.net/tengtelc.html Tengwar Telcontar], [http://www.kreativekorp.com/software/fonts/constructium.shtml Constructium], [http://freetengwar.sourceforge.net/formal.html Tengwar Formal Unicode], and [http://freetengwar.sourceforge.net/freemonotengwar.html FreeMonoTengwar] ([http://www.code2000.net/ James Kass]'s Code2000 and Code2001 use an older, incompatible version of the proposal).
+
+<blockquote style="font-family: 'Tengwar Formal CSUR', 'FreeMonoTengwar', 'Constructium', 'Everson Mono', 'Tengwar Formal Unicode', 'Tengwar Telcontar', 'Everson Mono'; font-size: 150%; line-height: 120%">&#xe022;&#xe051;&#xe040; &#xe028;&#xe011;&#xe04c;&#xe010;&#xe040; &#xe005;&#xe02e;&#xe046;&#xe013;&#xe044;&#xe058; &#xe014;&#xe045;&#xe040; &#xe005;&#xe014;&#xe04a;&#xe010; &#xe009;&#xe020;&#xe02e;&#xe046;&#xe02e;&#xe046; &#xe004;&#xe050;&#xe045; &#xe003;&#xe052;&#xe046;&#xe022;&#xe040; &#xe010;&#xe044; &#xe004;&#xe007;&#xe044;&#xe010;&#xe000;&#xe044;&#xe02e;&#xe053; &#xe004;&#xe050;&#xe045; &#xe020;&#xe00f;&#xe044;&#xe000;&#xe058; ⸬ &#xe00c;&#xe016;&#xe046; &#xe020;&#xe045;&#xe040; &#xe004;&#xe050;&#xe046;&#xe015;&#xe045;&#xe04a;&#xe004; &#xe015;&#xe00c;&#xe044; &#xe020;&#xe032;&#xe046;&#xe024;&#xe010;&#xe04a; &#xe004;&#xe050;&#xe045; &#xe003;&#xe010;&#xe04a;&#xe024;&#xe025;&#xe02e;&#xe044;&#xe025;&#xe050;&#xe045; &#xe004;&#xe050;&#xe045; &#xe00a;&#xe015;&#xe04a;&#xe022;&#xe004; &#xe003;&#xe040;&#xe000; &#xe000;&#xe015;&#xe04a;&#xe014;&#xe040;&#xe004;&#xe058; &#xe010;&#xe045;&#xe04a; &#xe010;&#xe040;&#xe00c;&#xe04a;&#xe020;&#xe046; &#xe010;&#xe044; &#xe02e;&#xe040; &#xe024;&#xe001;&#xe020;&#xe044;&#xe000;&#xe044; &#xe01d; &#xe005;&#xe020;&#xe00c;&#xe04a;&#xe014;&#xe046;&#xe028;&#xe004;&#xe04a;&#xe04a; ⸬</blockquote>
+
+===Uses outside the legendarium===
+Random (meaningless) Tengwar appears stylistically in a prop of an ancient tome in the [[Wikipedia:Within Temptation|Within Temptation]] music video for "Stand My Ground". Tengwar also appears in the computer game ''[[Wikipedia:Atlantis: The Lost Tales|Atlantis: The Lost Tales]]'' and the ''[[Wikipedia:Alone in the Dar|Alone in the Dark]]'' comic book.
+
+Several linguists, such as [[Wikipedia:Eric S. Raymond|Eric S. Raymond]], promote the usage of Tengwar for the constructed language [[Wikipedia:Lojban|Lojban]] as it is culturally neutral and contains some main Lojban morphology rules, making Lojban easier to learn when it is written with Tengwar.<ref>Kena. [http://vodka-pomme.net/projects/tengwar-for-lojban/lojteng#learn  ''Lojban using tengwar - why?''] (accessed August 2007)</ref> (Another suggested mode can be seen [http://www.catb.org/~esr/tengwar/lojban-tengwar.html there]).
+
+== See also ==
+* [[Sarati]]
+* [[Cirth]]
+
+== External Links ==
+*[http://www.forodrim.org/daeron/md_teng_primers.html Tengwar tutorials]
+* [http://en.wikibooks.org/wiki/History_of_Elven_writing_systems History of Elven writing systems] Wikibook on the secondary-world history of the Elven writing systems
+* [http://at.mansbjorkman.net/tengwar.htm Amanye Tenceli - The Tengwar] A comprehensive study of the Tengwar script
+* [http://www.forodrim.org/daeron/mdtci.html The Mellonath Daeron Index of Tengwar Specimina] &mdash; a continuously expanding list of all published Tengwar samples
+* [http://www.tengwar.art.pl/tengwar/fonty.php A comprehensive list of Tengwar fonts] (in Polish, but still useful even if you can't read the language)
+* [http://www.omniglot.com/conscripts/tengwar.htm Omniglot reference]
+* [http://www.geocities.com/TimesSquare/4948/tengwar Tengwar] by Dan Smith
+* [http://www.geocities.com/tengwar2001/ Tolkien Script Publishing]
+* [http://tengwar.art.pl/tengwar/ott/start.php?l=en Online Tengwar transcriber]
+
+=== Modes ===
+* [http://at.mansbjorkman.net/teng_general_english.htm Tengwar Mode for English (general use)]
+* [http://www.duvendor.com.br/amanye/Downloads/FTMME_Text.pdf Full Tengwar Modes for Modern English]
+* [http://catb.org/~esr/tengwar/ ESR's Tengwar modes for Esperanto and Lojban languages]
+* [http://lambenor.free.fr/tengwar/espanol.html Tengwar mode for Spanish]
+* [http://my.opera.com/tengwarblog/blog/deutscher-tengwar-modus Tengwar mode for German (full writing)]
+
+=== Software ===
+* [http://tengwar.art.pl/tengwar/ott/start.php?l=en Online Tengwar transcriber]
+* [http://at.mansbjorkman.net/tengscribe.htm  Tengwar Scribe] (Win32)
+* [http://jadro.ludviku.cz/yatt/  YATT (Win32) and YATT lite (Linux, Mac)]
+* [http://tengwar.art.pl/ktt/  KTT] (Linux+KDE)
+* [http://www.acondia.com/font_tengwar/TengwarMacros_v19F.zip Tengwar Macros for Microsoft Word/97 and Word/2000]
+
+More of Tengwar software on [http://tengwar.art.pl/tengwar/programy.php Tengwar Feanora] web-site (in Polish).
+
+=== Technical ===
+* [http://wikisophia.org/wiki/Wikitex#Teng WikiTeX] supports editing Tengwar directly in Wiki articles.
+* [http://std.dkuug.dk/jtc1/sc2/wg2/docs/n1641/n1641.htm Official proposal to encode Tengwar in Unicode]
+* [http://www.evertype.com/standards/csur/tengwar.html Tengwar proposal for ConScript Unicode Registry]
+* [http://movies.groups.yahoo.com/group/elfscript/message/30 Critique on the official proposal to encode Tengwar in Unicode]
+* [http://www.evertype.com/standards/iso10646/pdf/tengwar.pdf Revised Tengwar proposal]
+
+{{references}}
+<small>
+* Christopher Tolkien, ''The Tengwar Numerals'', in ''[[Quettar]]'' 13, Feb. 1982, pp. 8-9; a further, untitled, explanation of the Tengwar numerals by Christopher Tolkien appeared in ''Quettar'' 14, May 1982, pp. 6-7.
+</small>
+[[Category:Quenya nouns]]
+[[Category:Tengwar]]
+[[Category:Writing systems]]
+[[de:Tengwar]]
+[[fr:encyclo/langues/tengwar]]
+[[fi:Tengwar]]

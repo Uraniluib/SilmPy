@@ -1,0 +1,86 @@
+{{numenorean infobox
+| name=Tar-Ardamin
+| image=
+| caption=
+| pronun=
+| othernames=''[[Ar-Abattârik]]'' ([[Adûnaic|A]])
+| titles=[[King of Númenor]]
+| position=
+| location=[[Númenor]]
+| affiliation=[[King's Men]]
+| language=[[Adûnaic]]; used [[Quenya]] out of custom
+| birth={{SA|2618}}
+| birthlocation=
+| rule={{SA|2825}} - {{SA|2899|n}} (74 years)
+| death={{SA|2899}}
+| deathlocation=
+| age=281
+| notablefor=
+| house=[[House of Elros]]
+| parentage=[[Tar-Calmacil]]
+| siblings=[[Gimilzagar]]
+| spouse=
+| children=[[Ar-Adûnakhôr]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}'''Tar-Ardamin''' ([[Quenya|Q]], pron. {{IPA|[taˈrardamin]}}) or '''Ar-Abattârik'''  is sometimes listed in the list of rulers of [[Númenor]] but is sometimes omitted.  He was the son of King [[Tar-Calmacil]], and if he is counted as one of the rulers, then he is the 19th in the line of [[King of Númenor|kings]].<ref name="Kings">{{UT|Kings}}, Tar-Ardamin</ref>
+
+==History==
+In private, the [[King's Men]] called him by a name in their own [[Adûnaic]] language: [[Ar-Abattârik]]. This King was the last to follow the practice of using an official [[Quenya]] name. His son [[Ar-Adûnakhôr]] abandoned the old traditions, and used Adûnaic in his official name. 
+
+Ar-Adûnakhôr is generally counted as the twentieth ruler.<ref name="Kings"/>
+
+==Etymology==
+In [[Adûnaic]], Ar-Abattârik means "Pillar of the World". 
+
+Ardamin contains the [[Quenya]] word [[Arda]] ("world"); the element [[min]] usually means "one" but in this name, it might also be understood as "pillar" or "tower" (cf. [[Sindarin]] ''[[minas]]'' "tower").
+== Genealogy ==
+{{familytree/start}}
+{{familytree | | | ALC | | |ALC=[[Tar-Alcarin]]<br/><small>''{{SA|2406|n}} - {{SA|2737|n}}''</small>}}
+{{familytree | | | |!| | | |}}
+{{familytree | | | CAL | | |CAL=[[Tar-Calmacil]]<br/><small>''{{SA|2516|n}} - {{SA|2825|n}}''</small>}}
+{{familytree | |,|-|^|-|.| |}}
+{{familytree | ARD | | GIM |ARD='''TAR-ARDAMIN'''<br/><small>''{{SA|2618|n}} - {{SA|2899|n}}''</small>|GIM=[[Gimilzagar]]<br/><small>''b. {{SA|2630|n}}''</small>}}
+{{familytree | |!| | | | | |}}
+{{familytree | ADU | | | | |ADU=[[Ar-Adûnakhôr]]<br/><small>''{{SA|2709|n}} - {{SA|2962|n}}''</small>}}
+{{familytree | |!| | | | | |}}
+{{familytree | ZIM | | | | |ZIM=[[Ar-Zimrathôn]]<br/><small>''{{SA|2798|n}} - {{SA|3033|n}}''</small>}}
+{{familytree/end}}
+
+==Other Versions of the Legendarium==
+It should be said that there is some doubt over the character of Ar-Abattârik. He is listed in the detailed annals of ''[[The Line of Elros: Kings of Númenor]]'' as the son of [[Tar-Calmacil]] and father of [[Ar-Adûnakhôr]],<ref name="Kings"/> but in Appendix A I (i) to ''[[The Lord of the Rings]]'', the relevant section of the King-lists<ref>{{App|Numenor}}</ref> appears like this: 
+
+{{quote|...[[Tar-Calmacil]]. After Calmacil the Kings took the sceptre in names of the [[Númenóreans|Númenorean]] (or [[Adûnaic]]) tongue: [[Ar-Adûnakhôr]]...|[[Appendix A]] I (i)}}
+
+It seems most likely, as Christopher Tolkien suggests, that this omission is probably a simple mistake, and that Tar-Ardamin or Ar-Abattârik should appear in the list at this point.<ref>{{UT|Kings}}, Note 11</ref>
+
+{{References}}
+{{seq-start}}
+{{seq-head
+| race=numenorean
+| house=[[House of Elros]]
+| born={{SA|2618}}
+| died={{SA|2899}}
+}}
+{{seq
+| prev=[[Tar-Calmacil]]
+| list=19th [[King of Númenor]]
+| dates={{SA|2825}} - {{SA|2899|n}}
+| next=[[Ar-Adûnakhôr]]
+}}
+{{seq-end}}
+{{numenorkings}}
+{{DEFAULTSORT:TarArdamin}}
+[[Category:House of Elros]]
+[[Category:Rulers of Númenor]]
+[[Category:King's Men]]
+[[Category:Second Age characters]]
+
+[[de:Tar-Ardamin]]
+[[fi:Ar-Abattârik]]
+[[fr:encyclo/personnages/hommes/2a/numenoreens/tar-ardamin]]

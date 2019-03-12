@@ -1,0 +1,71 @@
+{{Edain infobox
+| name=Haldan
+| image=
+| caption=
+| pronun=
+| othernames=
+| titles=
+| position=
+| location=
+| affiliation=
+| language=[[Mannish]] dialect
+| birth={{FA|366}}<ref name="WJ">{{WJ|14}}, p. 237</ref>
+| birthlocation=
+| rule=
+| death={{FA|451}}<ref name="WJ" />
+| deathlocation=
+| age=
+| notablefor=
+| house=[[House of Haleth|Haladin]]
+| parentage=[[Haldar]]
+| siblings=
+| spouse=
+| children=[[Halmir]]
+| gender=Male
+| height=
+| hair=
+| eyes=
+| clothing=
+| weapons=
+| steed=
+}}
+'''Haldan''' was the son of [[Haldar]], grandson of [[Haldad]], and nephew to [[Haleth]] herself, who went to [[Brethil]] where she settled her People. Haleth left no heir of her own, and so as grandson of Haldad her father, Haldan took up the lordship of the [[Men of Brethil]].<ref>{{S|West}}</ref>
+
+== Genealogy ==
+{{familytree/start}}
+{{familytree| | | | | HAD | | | | | | | | |HAD=[[Haldad]]</br><small>''{{FA|315}} - {{FA|375|n}}''</small>}}
+{{familytree| | | |,|-|^|-|.| | | | | | | |}}
+{{familytree| | | HAT | | HAA | | | | | | |HAT=[[Haleth]]</br><small>''{{FA|341|n}} - {{FA|420|n}}''</small>|HAA=[[Haldar]]</br><small>''{{FA|341|n}} - {{FA|375|n}}''</small>}}
+{{familytree| | | | | | | |!| | | | | | | |}}
+{{familytree| | | | | | | HAN | | | | | | |HAN='''HALDAN'''</br><small>''{{FA|366|n}} - {{FA|451|n}}''</small>}}
+{{familytree| | | | | | | |!| | | | | | | |}}
+{{familytree| | | | | | | HAM | | | | | | |HAM=[[Halmir]]</br><small>''{{FA|390|n}} - {{FA|471|n}}''</small>}}
+{{familytree| |,|-|-|-|v|-|^|-|v|-|-|-|.| |}}
+{{familytree| HAL | | HUN | | HAR | | HIR |HAL=[[Haldir (Chieftain of the Haladin)|Haldir]]</br><small>''{{FA|414|n}} - {{FA|472|n}}''</small>|HUN=[[Hundar]]</br><small>''{{FA|418|n}} - {{FA|472|n}}''</small>|HAR=[[Hareth]]</br><small>''b. {{FA|420|n}}''</small>|HIR=[[Hiril]]</br><small>''unknown''</small>}}
+{{familytree/end}}
+
+{{references}}
+
+{{seq-start}}
+{{seq-head
+|race=edain
+|house=[[House of Haleth]]
+|born={{FA|366}}
+|died={{FA|451}}
+}}
+{{seq
+|pvac=
+|prev=[[Haleth]]
+|next=[[Halmir]]
+|list=[[Chieftain of the Haladin]]
+|dates={{FA|420}} - {{FA|451|n}}
+}}
+{{seq-end}}
+
+[[Category:Characters in The Silmarillion]]
+[[Category:First Age characters]]
+[[Category:House of Haleth]]
+
+[[de:Haldan]]
+[[fi:Haldan]]
+[[fr:encyclo:personnages:hommes:1a:peuple_de_haleth:haldan]]
