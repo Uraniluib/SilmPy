@@ -15,7 +15,7 @@ import dash_core_components as dcc
 #import pandas as pd
 import os
 from bs4 import BeautifulSoup
-from nlp import understand_sentence 
+from fuzzyNLP import understand_sentence, get_keywords 
 import igraph
 import urllib.request
 #from plotly.offline import plot
@@ -66,9 +66,11 @@ file.close()
 # open article data --node
 file = open('../CleanData/article.csv','r', encoding = 'utf-8')
 articles = {}
+reverse_articles = {}
 for c in file.readlines():
     c = (c.replace('\n','').replace('_',' ')).split('\t')
     articles[c[0]] = c[1]
+    reverse_articles[unidecode.unidecode(c[1].lower())] = c[0]
     # name is '4490', label is 'Silmaril', size is weight, color red is article
     sg.add_vertex(name = c[0], label = c[1], size = int(c[2])*5+5, color = '#c379af', group = 6, symbol = 'circle') 
 file.close()
@@ -85,7 +87,7 @@ for cg in file.readlines():
 file.close()
 
 # open article <--> category
-file = open('../CleanData/article_category_new.csv', 'r', encoding = 'utf-8')
+file = open('../CleanData/article_category.csv', 'r', encoding = 'utf-8')
 article_category = []
 for cg in file.readlines():
     cg = cg.replace('\n','').replace('_',' ').split('\t')
@@ -135,6 +137,29 @@ def output_description(desc_description):
             table.append(html.Tr(html_row))
     return table
 
+
+def desc_fuzzy(answer,keywords):
+    desc_description = defaultdict(list)
+    desc_description['answer'].append(answer)
+    table = []
+    for k,v in desc_description.items():
+        if k != 'image':
+            html_row = []
+            #html_row.append( html.Td([  ]) )
+            html_row.append(html.Td([ 
+                    k 
+                    ],style=dict(width='90px')))
+            values = []
+            for d in v:
+                values.append(d)
+                values.append(html.Br())
+            html_row.append(html.Td(
+                    values
+                    #'\n'.join([articles[d] for d in dic[1] if d in articles.keys()])
+                    ))
+            #html_row.append( html.Td([  ]) )
+            table.append(html.Tr(html_row))
+    return table
 
 def get_image(img_description):
     if len(img_description['image'])>0:
@@ -239,8 +264,6 @@ def network_3d_plot_single(keywords):
                         
     return sgc.subgraph(subNode, implementation="auto")                
 
-def desc_fuzzy(keywords):
-    return ''
          
 def network_3d_plot_fuzzy(keywords):
     return ''
@@ -254,7 +277,7 @@ def network_3d_plot(keywords, search_type):
         sub = network_3d_plot_single(keywords)
         
     elif search_type == 'fuzzy':
-        sub = network_3d_plot_fuzzy(keywords)
+        sub = network_3d_plot_single(keywords)
     #print (sub)
     layt=sub.layout('kk', dim=3) 
     N = sub.vcount()
@@ -555,8 +578,9 @@ def update_network(silm_dropdown_value, ns, search_type, input_sentence):
     elif search_type == "single" and silm_dropdown_value[-1] in categories.keys():
         return output_description(get_description(silm_dropdown_value[-1])), network_3d_plot( silm_dropdown_value, search_type )
     elif search_type == "fuzzy":
-        keywords = understand_sentence(input_sentence)
-        return desc_fuzzy(keywords), network_3d_plot_fuzzy(keywords)
+        answer = understand_sentence(input_sentence, reverse_articles)
+        keywords = get_keywords(input_sentence, reverse_articles)
+        return desc_fuzzy(answer,keywords), network_3d_plot( keywords, search_type )
 
 
 @app.callback(

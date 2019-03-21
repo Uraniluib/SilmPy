@@ -26,7 +26,7 @@ file.close()
 
 # open article <--> category
 file = open('../CleanData/article_category.csv', 'r', encoding = 'utf-8')
-article_category = {}
+article_category = []
 for cg in file.readlines():
     cg = cg.replace('\n','').replace('_',' ').split('\t')
     # 0 article, 1 category
@@ -34,4 +34,10 @@ for cg in file.readlines():
         article_category.append([cg[1],cg[0]])
     elif cg[1] in categories.keys() and cg[0] in articles.keys():
         article_category.append([cg[0],cg[1]])
+file.close()
+
+
+file = open('../CleanData/article_category_new.csv', 'w', encoding = 'utf-8')
+for k in article_category:
+    file.write(k[0]+'\t'+k[1]+'\n')
 file.close()
